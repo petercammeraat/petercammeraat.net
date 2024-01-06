@@ -10,13 +10,15 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/johnsundell/publish.git", from: "0.8.0")
+        .package(url: "https://github.com/johnsundell/publish.git", from: "0.8.0"),
+        .package(url: "https://github.com/johnsundell/plot.git", branch: "master")
     ],
     targets: [
         .executableTarget(
             name: "MyWebsite",
             dependencies: [
-                .product(name: "Publish", package: "publish")
+                .product(name: "Publish", package: "publish"),
+                .product(name: "Plot", package: "plot")
             ]
         )
     ]
