@@ -2,7 +2,6 @@
 title: Fletta
 date: 2015-05-20 05:00
 description: Fletta is a webbrowser specially designed for usages in public places, for example in hotels, restaurants, libraries, etc.
-tags: archived
 ---
 
 Fletta is a webbrowser specially designed for usages in public places, for example in hotels, restaurants, libraries, etc. It wil take cares of your users privacy.

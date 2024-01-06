@@ -2,7 +2,6 @@
 title: Talning
 date: 2020-10-22 05:00
 description: Talning - Countdowns on your Mac, iPhone, iPad, Apple Watch and Apple TV.
-tags: archived
 ---
 
 Countdowns on your Mac, iPhone, iPad, Apple Watch and Apple TV.

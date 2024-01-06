@@ -12,13 +12,14 @@ import Publish
 struct ItemList<Site: Website>: Component {
     var items: [Item<Site>]
     var site: Site
+    var sectionID: Site.SectionID
 
     var body: Component {
         let short = DateFormatter()
         short.dateFormat = "dd/MM"
 
         return Div {
-            for item in items where item.sectionID == Site.SectionID.init(rawValue: "journal") {
+            for item in items where item.sectionID == sectionID {
                 Div {
                     Link(url: item.path.absoluteString, label: {
                         Div {

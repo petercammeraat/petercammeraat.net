@@ -2,7 +2,6 @@
 title: eenbericht.nl
 date: 2011-01-27 05:00
 description: The concept of eenbericht.nl was very simple. You buy a token - with that token you could place a message on the website.
-tags: archived
 ---
 
 The concept of eenbericht.nl was very simple. You buy a token, every time a token is bought the price increased with 1 cent.

@@ -8,12 +8,12 @@ Ideas, bugs, feedback, stories, or questions? You can reach me in a number of wa
 
 ##### Email
 [sayhello@petercammeraat.net](mailto:sayhello@petercammeraat.net)
-<br>
+
 Use my [public key](/public-key/) when needed
 
 ##### iMessage
 [sayhello@petercammeraat.net](imessage://sayhello@petercammeraat.net)
-<br>
+
 iMessage Verification Code: `APKTIDKF8fj-aENpZLNnGOJAmIDj0HervLWV3SiNJGzyJOg3d9ug`
 
 ##### Mastodon 

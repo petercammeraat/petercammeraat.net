@@ -2,7 +2,6 @@
 title: SecKey
 date: 2018-12-03 05:00
 description: SecKey provides one time passwords to be used with the two factor authentication of Dropbox, Google, Facebook, GitHub, Proton Mail and many more.
-tags: archived
 ---
 
 **SecKey has sunset on 1 December 2021 and is no longer available. Because of Apple introducing OTP support in their password manager.**

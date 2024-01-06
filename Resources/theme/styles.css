@@ -1080,28 +1080,23 @@ header u {
     padding:.4rem 0
 }
 
-.article-header {
+article header {
     padding-top: 2rem;
     margin-bottom:.5rem
 }
 
-.article-header .container {
-    padding-left: 0;
-    padding-right:0
-}
-
-.article-header .thumb {
+article header {
     display: flex;
     flex-direction:column
 }
 
-.article-header h1 {
+article header h1 {
     font-weight: 700;
     font-size: 1.8rem;
     margin:0
 }
 
-.article-header .description {
+article header .description {
     font-size: 1.2rem;
     color: var(--light-font-color);
     font-weight: 300;
@@ -1368,27 +1363,27 @@ header u {
         background:linear-gradient(transparent 85%, #bac8ff 0)
     }
 
-    .article-header {
+    article header {
         padding-top:3rem
     }
 
-    .article-header h1 {
+    article header h1 {
         padding-top: 0;
         font-size:2.5rem
     }
 
-    .article-header .thumb {
+    article header .thumb {
         flex-direction:row
     }
 
-    .article-header .description {
+    article header .description {
         font-size: 1.8rem;
         line-height:1.5
     }
 }
 
 @media screen and (min-width: 1100px) {
-    .article-header h1 {
+    article header h1 {
         font-size:2.5rem
     }
 }

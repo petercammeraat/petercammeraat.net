@@ -18,7 +18,10 @@ You can follow me on:
 - GitHub at [github.com/petercammeraat](https://github.com/petercammeraat)
 
 
-#### Now 
+#### Now
+
+The now section is inspired by the [nownownow](https://nownownow.com/about) community. *Last update on 2024/01/04*
+
 ##### Currently
 - living in Utrecht, Netherlands
 - working for [The Digital Club](https://thedigitalclub.nl) as Swift Developer and Designer
@@ -30,9 +33,6 @@ You can follow me on:
 ##### Reading
 - The Year of the Locust by Terry Hayes
 - The Coddling of the American Mind by Jonathan Haidt
-
-<small>This section is inspired by the [nownownow](https://nownownow.com/about) community. *Last update on 2024/01/04*</small>
-
 
 
 #### Uses

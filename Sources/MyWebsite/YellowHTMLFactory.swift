@@ -5,6 +5,7 @@
 //  Copyright 2024 Peter Cammeraat
 //
 
+import Foundation
 import Plot
 import Publish
 
@@ -50,12 +51,12 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
                         SiteSection {
                             H2("Latest entries")
 
+                            let allEntries = context.allItems(sortedBy: \.date, order: .descending)
+                            let lastFiveEntries = Array(allEntries[0...5])
                             ItemList(
-                                items: context.allItems(
-                                    sortedBy: \.date,
-                                    order: .descending
-                                ),
-                                site: context.site
+                                items: lastFiveEntries,
+                                site: context.site,
+                                sectionID: Site.SectionID.init(rawValue: "journal")!
                             )
                         }
                     }
@@ -73,7 +74,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
                 SiteNavigation(context: context, selectedSelectionID: section.id)
                 SiteSection {
                     H1(section.title)
-                    ItemList(items: section.items, site: context.site)
+                    ItemList(items: section.items, site: context.site, sectionID: section.id)
                 }
                 SiteFooter()
             }
@@ -84,20 +85,27 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
         HTML(
             .lang(context.site.language),
             .head(for: item, on: context.site),
-            .body(
-                .class("item-page"),
-                .components {
-                    SiteNavigation(context: context, selectedSelectionID: item.sectionID)
-                    SiteSection {
+            .body {
+                SiteNavigation(context: context, selectedSelectionID: item.sectionID)
+                Main {
+                    SiteContainer {
                         Article {
-                            Div(item.content.body).class("content")
-                            Span("Tagged with: ")
-                            ItemTagList(item: item, site: context.site)
+                            Header {
+                                H1(item.title)
+
+                                Div {
+                                    EntryDate(item: item, site: context.site)
+                                    EntryTags(item: item, site: context.site)
+                                }
+                                .class("post-meta")
+                            }
+                            
+                            Div(item.content.body).class("article-post")
                         }
                     }
-                    SiteFooter()
                 }
-            )
+                SiteFooter()
+            }
         )
     }
 
@@ -107,7 +115,17 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
             .head(for: page, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: nil)
-                SiteSection(page.body)
+                Main {
+                    SiteContainer {
+                        Article {
+                            Header {
+                                H1(page.title)
+                            }
+
+                            Div(page.content.body).class("article-post")
+                        }
+                    }
+                }
                 SiteFooter()
             }
         )
@@ -152,30 +170,9 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
                          url: context.site.tagListPath.absoluteString
                     )
                     .class("browse-all")
-
-                    ItemList(
-                        items: context.items(
-                            taggedWith: page.tag,
-                            sortedBy: \.date,
-                            order: .descending
-                        ),
-                        site: context.site
-                    )
                 }
                 SiteFooter()
             }
         )
-    }
-}
-
-private struct ItemTagList<Site: Website>: Component {
-    var item: Item<Site>
-    var site: Site
-
-    var body: Component {
-        List(item.tags) { tag in
-            Link(tag.string, url: site.path(for: tag).absoluteString)
-        }
-        .class("tag-list")
     }
 }

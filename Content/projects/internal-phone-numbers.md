@@ -2,7 +2,6 @@
 title: Internal Phone Numbers
 date: 2019-04-29 05:00
 description: Internal Phone Numbers let you quickly lookup phone numbers from your colleagues.
-tags: archived
 ---
 
 Internal Phone Numbers let you quickly lookup phone numbers from your colleagues.

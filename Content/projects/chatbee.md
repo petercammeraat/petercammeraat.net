@@ -2,7 +2,6 @@
 title: ChatBee
 date: 2011-06-23 05:00
 description: ChatBee was a service, which you could use to create a secure chatbox and share the box with the people you want to speak.
-tags: archived
 ---
 
 ChatBee was a service, which you could use to create a secure chatbox and share the box with the people you want to speak.

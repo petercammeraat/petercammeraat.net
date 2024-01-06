@@ -2,7 +2,6 @@
 title: BrandBook
 date: 2020-05-27 05:00
 description: BrandBook makes connecting your employees with your brand identity as easy as clicking a button. By keeping everything about your brand in one place, you can empower your team to use it the right way. Why do it any other way?
-tags: archived
 ---
 
 BrandBook makes connecting your employees with your brand identity as easy as clicking a button. By keeping everything about your brand in one place, you can empower your team to use it the right way. Why do it any other way?  
