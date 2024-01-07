@@ -63,7 +63,7 @@ The now section is inspired by the [nownownow](https://nownownow.com/about) comm
 
 
 ##### Services
-- [Fastmail](https://fastmail.com) as email provider (get 10% off: https://ref.fm/u30574464)
+- [Fastmail](https://fastmail.com) as email provider ([get 10% off](https://ref.fm/u30574464))
 - [1984.is](https://1984.is) for domain registration
 - [Hetzner](https://hetzner.com) for servers
 

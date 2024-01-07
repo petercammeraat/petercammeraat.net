@@ -11,4 +11,4 @@ tags: linked, privacy
 
 > "I flipped out," he said. "They're copying the whole Internet. There's no selection going on here. Maybe they select out later, but at the point of handoff to the government, they get everything."
 
-→ https://www.washingtonpost.com/wp-dyn/content/article/2007/11/07/AR2007110700006.html
+→ [https://www.washingtonpost.com/wp-dyn/content/article/2007/11/07/AR2007110700006.html](https://www.washingtonpost.com/wp-dyn/content/article/2007/11/07/AR2007110700006.html)

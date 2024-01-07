@@ -2,7 +2,7 @@
 title: Using RSS feeds
 date: 2023-01-06 05:00
 description: Using RSS feeds - With content delivered to you, there's no need to visit the website and risk getting drawn in by algorithms designed to keep you there.
-tags: how to
+tags: howto
 ---
 
 ### Why should you use RSS?
@@ -51,9 +51,9 @@ You need to find the `Channel ID` before you can subscribe to the RSS feed of a 
 
 *For example:*
 
-- Channel: https://www.youtube.com/@marthijndevries
+- Channel: [https://www.youtube.com/@marthijndevries](https://www.youtube.com/@marthijndevries)
 - Channel ID: UCH4eXlgdvf4by9uVqjJtY7w
-- RSS Feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCH4eXlgdvf4by9uVqjJtY7w
+- RSS Feed: [https://www.youtube.com/feeds/videos.xml?channel_id=UCH4eXlgdvf4by9uVqjJtY7w](https://www.youtube.com/feeds/videos.xml?channel_id=UCH4eXlgdvf4by9uVqjJtY7w)
 
 #### Reddit
 
@@ -61,8 +61,8 @@ Feed: `https://www.reddit.com/r/SUBREDDIT.rss`
 
 *For example:*
 
-- Subreddit: https://www.reddit.com/r/oddlysatisfying/
-- RSS Feed: https://www.reddit.com/r/oddlysatisfying.rss
+- Subreddit: [https://www.reddit.com/r/oddlysatisfying/](https://www.reddit.com/r/oddlysatisfying/)
+- RSS Feed: [https://www.reddit.com/r/oddlysatisfying.rss](https://www.reddit.com/r/oddlysatisfying.rss)
 
 #### Twitter
 
@@ -70,8 +70,8 @@ Feed: `https://nitter.net/USERNAME/rss`
 
 *For example:*
 
-- Twitter: https://twitter.com/NASA
-- RSS Feed: https://nitter.net/NASA/rss
+- Twitter: [https://twitter.com/NASA](https://twitter.com/NASA)
+- RSS Feed: [https://nitter.net/NASA/rss](https://nitter.net/NASA/rss)
 
 
 ### What RSS reader can you use?

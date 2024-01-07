@@ -23,7 +23,7 @@ The amount of data that is collected about you is shocking (post for another day
 I am kind of happy that Facebook made [Threads](http://threads.net) (the Twitter clone by Instagram). It is build on ActivityPub, the protocol where Mastodon
 is build on, so in time people on Mastodon could follow Threads accounts and vice versa. Famous people and companies can use that.
 
-Just an hour ago I read about the fact that the Dutch government has a Mastodon instance: https://social.overheid.nl/public/local 👀
+Just an hour ago I read about the fact that the Dutch government has a Mastodon instance: [https://social.overheid.nl/public/local](https://social.overheid.nl/public/local) 👀
 this makes me very happy.
 
 I dived some deeper into it and it turns out that more governments and organisations have their own Mastodon server. Think it is an
@@ -32,23 +32,23 @@ awesome idea. You have instant verification, the person really belongs to the go
 ### Instances
 
 ##### Governments
-- European Union: https://social.network.europa.eu/public/local
-- Dutch government: https://social.overheid.nl/public/local
-- German government: https://social.bund.de/public/local
-- Municipality Amsterdam: https://social.amsterdam.nl/public/local
+- European Union: [https://social.network.europa.eu/public/local](https://social.network.europa.eu/public/local)
+- Dutch government: [https://social.overheid.nl/public/local](https://social.overheid.nl/public/local)
+- German government: [https://social.bund.de/public/local](https://social.bund.de/public/local)
+- Municipality Amsterdam: [https://social.amsterdam.nl/public/local](https://social.amsterdam.nl/public/local)
 
 ##### News organistions
-- ARD (German): https://ard.social/public/local
-- Groene Amsterdamer (Dutch): https://social.groene.nl/public/local
+- ARD (German): [https://ard.social/public/local](https://ard.social/public/local)
+- Groene Amsterdamer (Dutch): [https://social.groene.nl/public/local](https://social.groene.nl/public/local)
 
 
 ##### Universities
-- MIT: https://mastodon.mit.edu/
+- MIT: [https://mastodon.mit.edu/](https://mastodon.mit.edu/)
 
 
 ##### Other organisations
-- W3C: https://w3c.social/public/local
-- Greenpeace Switzerland: https://mastodon.greenpeace.ch
+- W3C: [https://w3c.social/public/local](https://w3c.social/public/local)
+- Greenpeace Switzerland: [https://mastodon.greenpeace.ch](https://mastodon.greenpeace.ch)
 
 
 *Please [let me know](https://petercammeraat.net/contact/) if you found more. Will update this list.*
@@ -60,6 +60,6 @@ Microblogging is the first step. There are other services to tackle.
 
 Other decentralised replacements for big single entities:
 
-- YouTube replacement PeerTube: https://joinpeertube.org
-- Instagram replacement Pixelfed: https://pixelfed.org
-- Reddit replacement Lemmy: https://join-lemmy.org
+- YouTube replacement PeerTube: [https://joinpeertube.org](https://joinpeertube.org)
+- Instagram replacement Pixelfed: [https://pixelfed.org](https://pixelfed.org)
+- Reddit replacement Lemmy: [https://join-lemmy.org](https://join-lemmy.org)

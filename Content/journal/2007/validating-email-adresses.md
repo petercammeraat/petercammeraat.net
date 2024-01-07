@@ -17,4 +17,4 @@ tags: linked
 > - !def!xyz%abc@example.com
 > - _somename@example.com
 
-→ https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx
+→ [https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx)

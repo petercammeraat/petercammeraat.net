@@ -72,9 +72,16 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
             .head(for: section, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: section.id)
-                SiteSection {
-                    H1(section.title)
-                    ItemList(items: section.items, site: context.site, sectionID: section.id)
+                Main {
+                    SiteContainer {
+                        Div(section.content.body)
+
+                        if section.id.rawValue == "journal" {
+                            ItemList(items: section.items, site: context.site, sectionID: section.id, separateInYears: true)
+                        } else  {
+                            ItemList(items: section.items, site: context.site, sectionID: section.id)
+                        }
+                    }
                 }
                 SiteFooter()
             }
@@ -86,7 +93,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
             .lang(context.site.language),
             .head(for: item, on: context.site),
             .body {
-                SiteNavigation(context: context, selectedSelectionID: item.sectionID)
+                SiteNavigation(context: context, selectedSelectionID: nil)
                 Main {
                     SiteContainer {
                         Article {
@@ -137,17 +144,21 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
             .head(for: page, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: nil)
-                SiteSection {
-                    H1("Browse all tags")
-                    List(page.tags.sorted()) { tag in
-                        ListItem {
-                            Link(tag.string,
-                                 url: context.site.path(for: tag).absoluteString
-                            )
+                Main {
+                    SiteSection {
+                        SiteContainer {
+                            Header {
+                                H1("Tags")
+                            }
+
+                            Div {
+                                for tag in page.tags.sorted() {
+                                    Link(tag.string, url: context.site.path(for: tag).absoluteString)
+                                }
+                            }
+                            .class("terms")
                         }
-                        .class("tag")
                     }
-                    .class("all-tags")
                 }
                 SiteFooter()
             }
@@ -160,16 +171,32 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
             .head(for: page, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: nil)
-                SiteSection {
-                    H1 {
-                        Text("Tagged with ")
-                        Span(page.tag.string).class("tag")
+                Main {
+                    Header {
+                        SiteContainer {
+                            H1(page.tag.string)
+
+                            Paragraph {
+                                Span(String(context.items(taggedWith: page.tag).count)).class("count")
+                                Span(" found")
+                            }
+                            .class("subtitle")
+                        }
                     }
 
-                    Link("Browse all tags",
-                         url: context.site.tagListPath.absoluteString
-                    )
-                    .class("browse-all")
+                    SiteSection {
+                        SiteContainer {
+                            ItemList(
+                                items: context.items(
+                                    taggedWith: page.tag,
+                                    sortedBy: \.date,
+                                    order: .descending
+                                ),
+                                site: context.site,
+                                sectionID: Site.SectionID.init(rawValue: "journal")!
+                            )
+                        }
+                    }
                 }
                 SiteFooter()
             }

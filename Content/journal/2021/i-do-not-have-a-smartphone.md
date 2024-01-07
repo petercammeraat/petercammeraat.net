@@ -51,13 +51,13 @@ Turns out using a dumbphone is like riding a bike; T9 is not nearly as bad as Iâ
 
 #### I am not the only one
 
-- https://www.irishtimes.com/life-and-style/health-family/how-and-why-i-got-rid-of-my-smartphone-1.4150057
-- https://www.nytimes.com/2019/02/23/business/cell-phone-addiction.html
-- https://www.independent.co.uk/news/long_reads/smartphone-get-rid-social-media-change-life-online-capitalism-internet-detox-control-a7910066.html
-- https://www.theguardian.com/technology/2016/feb/11/smartphone-technology-addiction-facebook-twitter
-- https://www.huckmag.com/perspectives/reportage-2/why-more-young-people-are-ditching-their-smartphones/
-- https://www.mattmcwilliams.com/get-rid-smartphone-reasons/
-- https://everydaymamas.com/i-threw-out-my-smartphone-and-it-revolutionized-my-life/
-- https://halftheclothes.com/life-without-smartphone/
-- https://www.alvarez.io/posts/living-like-its99/
+- [https://www.irishtimes.com/life-and-style/health-family/how-and-why-i-got-rid-of-my-smartphone-1.4150057](https://www.irishtimes.com/life-and-style/health-family/how-and-why-i-got-rid-of-my-smartphone-1.4150057)
+- [https://www.nytimes.com/2019/02/23/business/cell-phone-addiction.html](https://www.nytimes.com/2019/02/23/business/cell-phone-addiction.html)
+- [https://www.independent.co.uk/news/long_reads/smartphone-get-rid-social-media-change-life-online-capitalism-internet-detox-control-a7910066.html](https://www.independent.co.uk/news/long_reads/smartphone-get-rid-social-media-change-life-online-capitalism-internet-detox-control-a7910066.html)
+- [https://www.theguardian.com/technology/2016/feb/11/smartphone-technology-addiction-facebook-twitter](https://www.theguardian.com/technology/2016/feb/11/smartphone-technology-addiction-facebook-twitter)
+- [https://www.huckmag.com/perspectives/reportage-2/why-more-young-people-are-ditching-their-smartphones/](https://www.huckmag.com/perspectives/reportage-2/why-more-young-people-are-ditching-their-smartphones/)
+- [https://www.mattmcwilliams.com/get-rid-smartphone-reasons/](https://www.mattmcwilliams.com/get-rid-smartphone-reasons/)
+- [https://everydaymamas.com/i-threw-out-my-smartphone-and-it-revolutionized-my-life/](https://everydaymamas.com/i-threw-out-my-smartphone-and-it-revolutionized-my-life/)
+- [https://halftheclothes.com/life-without-smartphone/](https://halftheclothes.com/life-without-smartphone/)
+- [https://www.alvarez.io/posts/living-like-its99/](https://www.alvarez.io/posts/living-like-its99/)
 

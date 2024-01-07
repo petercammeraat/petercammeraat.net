@@ -2,7 +2,7 @@
 title: Your own personal website
 date: 2023-01-13 05:00
 description: Your own personal website. Should you have one? How do you start? What do you put on your website?
-tags: how to
+tags: howto
 ---
 
 ### Why you should have your own personal website?

@@ -13,4 +13,4 @@ In the book Robin Sharma discusses the benefits of waking up at 5 AM and using t
 
 > “Limitation is nothing more than a mentality that too many good people practice daily until they believe it’s reality. It breaks my heart to see so many potentially powerful human beings stuck in a story about why they can’t be extraordinary, professionally and personally. You need to remember that your excuses are seducers, your fears are liars and your doubts are thieves.” 
 
-→ https://www.robinsharma.com/book/the-5am-club
+→ [https://www.robinsharma.com/book/the-5am-club](https://www.robinsharma.com/book/the-5am-club)

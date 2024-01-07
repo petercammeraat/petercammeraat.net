@@ -11,6 +11,6 @@ tags: linked
 
 > They are masters of producing minimum viable solutions in a diverse array of subjects. Some of these solutions never need to be replaced. The rest are viable until a full-time dedicated specialist is required.
 
-→ https://wildcardpeople.com/what-is-a-wildcard-person
+→ [https://wildcardpeople.com/what-is-a-wildcard-person](https://wildcardpeople.com/what-is-a-wildcard-person)
 
 Believe I am a "wild card person", "Swiss army knife", "generalist", or "jack of all trades". The things listed under thrive, suffer, and need are exactly the points that make me thrive or suffer and what I need.

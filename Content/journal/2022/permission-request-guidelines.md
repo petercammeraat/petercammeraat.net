@@ -2,7 +2,7 @@
 title: Permission request guidelines
 date: 2022-11-08 05:00
 description: A good user experience for a permission request is important, because often permission request are the first thing the user sees. This can make or break the first impression about the app.
-tags: user experience
+tags: ux
 ---
 
 A good user experience for a permission request is important, because often permission request are the first thing the user sees. This can make or break the first impression about the app. In this note I will outline how this experience can be improved. 
@@ -119,11 +119,11 @@ The Find My app is a good example. The app needs location access to see where my
 
 
 ## Sources
-- https://developer.apple.com/design/human-interface-guidelines/patterns/accessing-private-data/
-- https://m2.material.io/design/platform-guidance/android-permissions.html#usage
-- https://dl.acm.org/doi/10.1145/2556288.2557400
-- https://www.nngroup.com/articles/permission-requests/
-- https://uxplanet.org/getting-to-yes-best-practices-for-ios-permissions-dialogs-9d62892142cc
-- https://andrewchen.com/why-people-are-turning-off-push/
-- https://stephaniewalter.design/blog/the-ultimate-guide-to-not-fck-up-push-notifications/
-- https://builtin.com/design-ux/push-notifications
+- [https://developer.apple.com/design/human-interface-guidelines/patterns/accessing-private-data/](https://developer.apple.com/design/human-interface-guidelines/patterns/accessing-private-data/)
+- [https://m2.material.io/design/platform-guidance/android-permissions.html#usage](https://m2.material.io/design/platform-guidance/android-permissions.html#usage)
+- [https://dl.acm.org/doi/10.1145/2556288.2557400](https://dl.acm.org/doi/10.1145/2556288.2557400)
+- [https://www.nngroup.com/articles/permission-requests/](https://www.nngroup.com/articles/permission-requests/)
+- [https://uxplanet.org/getting-to-yes-best-practices-for-ios-permissions-dialogs-9d62892142cc](https://uxplanet.org/getting-to-yes-best-practices-for-ios-permissions-dialogs-9d62892142cc)
+- [https://andrewchen.com/why-people-are-turning-off-push/](https://andrewchen.com/why-people-are-turning-off-push/)
+- [https://stephaniewalter.design/blog/the-ultimate-guide-to-not-fck-up-push-notifications/](https://stephaniewalter.design/blog/the-ultimate-guide-to-not-fck-up-push-notifications/)
+- [https://builtin.com/design-ux/push-notifications](https://builtin.com/design-ux/push-notifications)

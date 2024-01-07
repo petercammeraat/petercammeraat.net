@@ -9,4 +9,4 @@ tags: linked
 
 > At that point, social and economic problems would be the least of our worries. Any hyperintelligent machine (the argument goes) would have its own hypergoals, and would work to achieve them by manipulating humans, or simply using their bodies as a handy source of raw materials. Last year, the philosopher Nick Bostrom published Superintelligence, a book that synthesizes the alarmist view of AI and makes a case that such an intelligence explosion is both dangerous and inevitable given a set of modest assumptions.
 
-→ https://idlewords.com/talks/superintelligence.htm
+→ [https://idlewords.com/talks/superintelligence.htm](https://idlewords.com/talks/superintelligence.htm)

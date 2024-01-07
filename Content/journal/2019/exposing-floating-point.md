@@ -11,6 +11,6 @@ tags: linked
 
 > On a technical note, by floating point I’m referring to the ubiquitous IEEE 754 binary floating point format. Types `half`, `float`, and `double` are understood to be binary16, binary32, and binary64 respectively. There were other formats back in the day, but whatever device you’re reading this on is pretty much guaranteed to use IEEE 754.
 
-→ https://ciechanow.ski/exposing-floating-point/
+→ [https://ciechanow.ski/exposing-floating-point/](https://ciechanow.ski/exposing-floating-point/)
 
 Good explanation about floating points by Bartosz Ciechanowski.

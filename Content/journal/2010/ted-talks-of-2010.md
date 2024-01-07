@@ -2,7 +2,7 @@
 title: TED Talks of 2010
 date: 2010-12-31 05:00
 description: TED Talks of 2010
-tags: linked, ted talks
+tags: linked, tedtalks
 ---
 
 ### How great leaders inspire action
@@ -13,7 +13,7 @@ tags: linked, ted talks
 
 > Here's how Apple actually communicates. "Everything we do, we believe in challenging the status quo. We believe in thinking differently. The way we challenge the status quo is by making our products beautifully designed, simple to use and user friendly. We just happen to make great computers. Want to buy one?" Totally different, right? You're ready to buy a computer from me. I just reversed the order of the information. What it proves to us is that people don't buy what you do; people buy why you do it.
 
-→ https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
+→ [https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 
 ### Pointing to the future of UI
@@ -24,7 +24,7 @@ tags: linked, ted talks
 
 > The author of this new pointing device is sitting over there, so I can pull this from there to there. These are unrelated machines, right? So the computation is space soluble and network soluble. So I'm going to leave that over there because I have a question for Paul. Paul is the designer of this wand, and maybe its easiest for him to come over here and tell me in person what's going on. So let me get some of these out of the way. Let's pull this apart: I'll go ahead and explode it. Kevin, can you help? Let me see if I can help us find the circuit board. Mind you, it's a sort of gratuitous field-stripping exercise, but we do it in the lab all the time. All right. So collaborative work, whether it's immediately co-located or distant and distinct, is always important. And again, that stuff needs to be undertaken in the context of space.
 
-→ https://www.ted.com/talks/john_underkoffler_pointing_to_the_future_of_ui
+→ [https://www.ted.com/talks/john_underkoffler_pointing_to_the_future_of_ui](https://www.ted.com/talks/john_underkoffler_pointing_to_the_future_of_ui)
 
 
 ### The art of choosing
@@ -35,14 +35,14 @@ tags: linked, ted talks
 
 > Americans tend to believe that they've reached some sort of pinnacle in the way they practice choice. They think that choice, as seen through the American lens best fulfills an innate and universal desire for choice in all humans.
 
-→ https://www.ted.com/talks/sheena_iyengar_the_art_of_choosing
+→ [https://www.ted.com/talks/sheena_iyengar_the_art_of_choosing](https://www.ted.com/talks/sheena_iyengar_the_art_of_choosing)
 
 
 ### The power of vulnerability
 
 > So very quickly -- really about six weeks into this research -- I ran into this unnamed thing that absolutely unraveled connection in a way that I didn't understand or had never seen. And so I pulled back out of the research and thought, I need to figure out what this is. And it turned out to be shame. And shame is really easily understood as the fear of disconnection: Is there something about me that, if other people know it or see it, that I won't be worthy of connection?
 
-→ https://www.ted.com/talks/brene_brown_the_power_of_vulnerability
+→ [https://www.ted.com/talks/brene_brown_the_power_of_vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability)
 
 
 ### Using design to make ideas new
@@ -51,4 +51,4 @@ tags: linked, ted talks
 
 > Sometimes, in the middle of a resistant problem, I write down things that I know about it. But you can see the beginning of an idea there, because you can see the word "new" emerging from the "old." That's what happens. There's a relationship between the old and the new; the new emerges from the context of the old. And then I did some variations of it, but it still wasn't coalescing graphically at all. I had this other version which had something interesting about it in terms of being able to put it together in your mind from clues.
 
-→ https://www.ted.com/talks/milton_glaser_using_design_to_make_ideas_new
+→ [https://www.ted.com/talks/milton_glaser_using_design_to_make_ideas_new](https://www.ted.com/talks/milton_glaser_using_design_to_make_ideas_new)

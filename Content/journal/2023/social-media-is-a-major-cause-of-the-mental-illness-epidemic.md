@@ -41,5 +41,5 @@ Every week I receive multiple emails from user that tell stories how Quiet chang
 
 I am working on bring Quiet to other platforms outside macOS and iOS. To reach more people and to help them to get their focus back and maybe even help some of them with their mental health struggles.
 
-[^1]: https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic
-[^2]: https://news.ycombinator.com/item?id=34901571
+[^1]: [https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
+[^2]: [https://news.ycombinator.com/item?id=34901571](https://news.ycombinator.com/item?id=34901571)

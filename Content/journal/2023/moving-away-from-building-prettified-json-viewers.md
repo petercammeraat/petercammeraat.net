@@ -2,7 +2,7 @@
 title: Moving away from building Prettified JSON Viewers
 date: 2023-04-19 05:00
 description: Moving away from building Prettified JSON Viewers
-tags: user experience
+tags: ux
 ---
 
 At my jobby job the status quo is that we build apps like this: 

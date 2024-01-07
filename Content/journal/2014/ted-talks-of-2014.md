@@ -2,7 +2,7 @@
 title: TED Talks of 2014
 date: 2014-12-31 05:00
 description: TED Talks of 2014
-tags: linked, ted talks
+tags: linked, tedtalks
 ---
 
 ### Why privacy matters
@@ -13,7 +13,7 @@ tags: linked, ted talks
 
 > Over the last 16 months, as I've debated this issue around the world, every single time somebody has said to me, "I don't really worry about invasions of privacy because I don't have anything to hide." I always say the same thing to them. I get out a pen, I write down my email address. I say, "Here's my email address. What I want you to do when you get home is email me the passwords to all of your email accounts, not just the nice, respectable work one in your name, but all of them, because I want to be able to just troll through what it is you're doing online, read what I want to read and publish whatever I find interesting. After all, if you're not a bad person, if you're doing nothing wrong, you should have nothing to hide."
 
-→ https://www.ted.com/talks/glenn_greenwald_why_privacy_matters
+→ [https://www.ted.com/talks/glenn_greenwald_why_privacy_matters](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
 
 
 ### Here's how we take back the Internet
@@ -22,14 +22,14 @@ tags: linked, ted talks
 
 > It is. I think it's very true. This is not a left or right issue. Our basic freedoms, and when I say our, I don't just mean Americans, I mean people around the world, it's not a partisan issue. These are things that all people believe, and it's up to all of us to protect them, and to people who have seen and enjoyed a free and open Internet, it's up to us to preserve that liberty for the next generation to enjoy, and if we don't change things, if we don't stand up to make the changes we need to do to keep the Internet safe, not just for us but for everyone, we're going to lose that, and that would be a tremendous loss, not just for us, but for the world.
 
-→ https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet
+→ [https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet](https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet)
 
 
 ### Meet the founder of the blog revolution
 
 > The founding mother of the blog revolution, Movable Type's Mena Trott, talks about the early days of blogging, when she realized that giving regular people the power to share our lives online is the key to building a friendlier, more connected world.
 
-→ https://www.ted.com/talks/mena_trott_meet_the_founder_of_the_blog_revolution
+→ [https://www.ted.com/talks/mena_trott_meet_the_founder_of_the_blog_revolution](https://www.ted.com/talks/mena_trott_meet_the_founder_of_the_blog_revolution)
 
 
 ### Meet the SixthSense interaction
@@ -38,14 +38,14 @@ tags: linked, ted talks
 
 > And the camera basically tracks these four fingers and recognizes any gestures that he's making so he can just go to, for example, a map of Long Beach, zoom in and out, etc. The system also recognizes iconic gestures such as the "take a picture" gesture, and then takes a picture of whatever is in front of you. And when he then walks back to the Media Lab, he can just go up to any wall and project all the pictures that he's taken, sort through them and organize them, and re-size them, etc., again using all natural gestures.
 
-→ https://www.ted.com/talks/pattie_maes_pranav_mistry_meet_the_sixthsense_interaction
+→ [https://www.ted.com/talks/pattie_maes_pranav_mistry_meet_the_sixthsense_interaction](https://www.ted.com/talks/pattie_maes_pranav_mistry_meet_the_sixthsense_interaction)
 
 
 ### Our loss of wisdom
 
 > "Practical wisdom," Aristotle told us, "is the combination of moral will and moral skill." A wise person knows when and how to make the exception to every rule, as the janitors knew when to ignore the job duties in the service of other objectives. A wise person knows how to improvise, as Luke did when he re-washed the floor. Real-world problems are often ambiguous and ill-defined and the context is always changing. A wise person is like a jazz musician -- using the notes on the page, but dancing around them, inventing combinations that are appropriate for the situation and the people at hand. A wise person knows how to use these moral skills in the service of the right aims. To serve other people, not to manipulate other people. And finally, perhaps most important, a wise person is made, not born. Wisdom depends on experience, and not just any experience. You need the time to get to know the people that you're serving. You need permission to be allowed to improvise, try new things, occasionally to fail and to learn from your failures. And you need to be mentored by wise teachers.
 
-→ https://www.ted.com/talks/barry_schwartz_our_loss_of_wisdom
+→ [https://www.ted.com/talks/barry_schwartz_our_loss_of_wisdom](https://www.ted.com/talks/barry_schwartz_our_loss_of_wisdom)
 
 
 ### The best computer interface? Maybe ... your hands
@@ -54,7 +54,7 @@ tags: linked, ted talks
 
 > And when you think about it, this makes a lot of sense, that using specialized physical objects would help people use an interface more easily. I mean, our hands and our minds are optimized to think about and interact with tangible objects. Think about which you find easier to use, a physical keyboard or an onscreen keyboard like on a phone?
 
-→ https://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands
+→ [https://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands](https://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands)
 
 
 
@@ -62,14 +62,14 @@ tags: linked, ted talks
 
 > Engineering a website is equal parts vision and adaptation ... responding both to how users navigate the site and what new goals of the organization have emerged. Rochelle King, the senior designer at Spotify, was recently challenged to combine the many mismatched interfaces of Spotify into a single harmonious layout. She walks us through the process of redesigning a major website, revealing best practices for navigating the relationship between designers, data and the people for whom it is built.
 
-→ https://www.ted.com/talks/rochelle_king_the_complex_relationship_between_data_and_design_in_ux
+→ [https://www.ted.com/talks/rochelle_king_the_complex_relationship_between_data_and_design_in_ux](https://www.ted.com/talks/rochelle_king_the_complex_relationship_between_data_and_design_in_ux)
 
 
 ### The ethics of collecting data
 
 > One big ethical question looms over the excitement about the potential of big data: how do we maintain privacy while gleaning insight from all of this collected information? Marie Wallace offers some fresh thinking on the topic, such as radical transparency on how retailers use ads to target certain demographics.
 
-→ https://www.ted.com/talks/marie_wallace_the_ethics_of_collecting_data
+→ [https://www.ted.com/talks/marie_wallace_the_ethics_of_collecting_data](https://www.ted.com/talks/marie_wallace_the_ethics_of_collecting_data)
 
 
 ### The small and surprisingly dangerous detail the police track about you
@@ -80,4 +80,4 @@ tags: linked, ted talks
 
 > When Mike Katz-Lacabe asked his local police department for information about the plate reader data they had on him, this is what they got: in addition to the date, time and location, the police department had photographs that captured where he was going and often who he was with. The second photo from the top is a picture of Mike and his two daughters getting out of their car in their own driveway. The government has hundreds of photos like this about Mike going about his daily life. And if you drive a car in the United States, I would bet money that they have photographs like this of you going about your daily life.
 
-→ https://www.ted.com/talks/catherine_crump_the_small_and_surprisingly_dangerous_detail_the_police_track_about_you
+→ [https://www.ted.com/talks/catherine_crump_the_small_and_surprisingly_dangerous_detail_the_police_track_about_you](https://www.ted.com/talks/catherine_crump_the_small_and_surprisingly_dangerous_detail_the_police_track_about_you)

@@ -11,6 +11,6 @@ tags: linked
 
 > We’ll start by creating a positioning system that can tell us where we are. Our initial approach will be quite simple, but we’ll step-by-step improve upon it to build an understanding of the positioning method used by GPS.
 
-→ https://ciechanow.ski/gps/
+→ [https://ciechanow.ski/gps/](https://ciechanow.ski/gps/)
 
 Awesome explanation about GPS. I am a big fan of Bartosz Ciechanowski work, his explanations are clear and have cool interactive examples.

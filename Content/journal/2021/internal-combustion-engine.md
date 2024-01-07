@@ -10,6 +10,6 @@ tags: linked
 > It’s hard to talk about a mechanical device without visualizing its motion, so many demonstrations in this blog post are animated.
 > An engine like this may seem complicated, but we will build it up from first principles. In fact, we’ll start with a significantly simpler way of generating a rotational motion.
 
-→ https://ciechanow.ski/internal-combustion-engine/
+→ [https://ciechanow.ski/internal-combustion-engine/](https://ciechanow.ski/internal-combustion-engine/)
 
 Awesome explanation about Internal Combustion Engine. I am a big fan of Bartosz Ciechanowski work, his explanations are clear and have cool interactive examples.

@@ -13,4 +13,4 @@ The book presents a set of simple, easy-to-follow rules for eating well and avoi
 
 > “What an extraordinary achievement for a civilization: to have developed the one diet that reliably makes its people sick!” 
 
-→ https://michaelpollan.com/books/food-rules/
+→ [https://michaelpollan.com/books/food-rules/](https://michaelpollan.com/books/food-rules/)

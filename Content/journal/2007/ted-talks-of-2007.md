@@ -2,7 +2,7 @@
 title: TED Talks of 2007
 date: 2007-12-31 05:00
 description: TED Talks of 2007
-tags: linked, ted talks
+tags: linked, tedtalks
 ---
 
 ### Design is in the details
@@ -13,14 +13,14 @@ tags: linked, ted talks
 
 > And, again, as designers, we wanted to make this thing incredibly beautiful and spend a lot of time thinking of the form. And that was completely irrelevant. When you put yourself in the position of these people, things like the fact that this has to be able to fold up and fit on a bicycle, become much more relevant than the form of it. The way it's produced, it has to be produced with indigenous manufacturing methods and indigenous materials. So it had to be looked at completely from the point of view of the user. We had to completely transfer ourselves over to their world.
 
-→  https://www.ted.com/talks/paul_bennett_design_is_in_the_details
+→ [https://www.ted.com/talks/paul_bennett_design_is_in_the_details](https://www.ted.com/talks/paul_bennett_design_is_in_the_details)
 
 
 ### In praise of slowness
 
 > A world obsessed with speed, with doing everything faster, with cramming more and more into less and less time. Every moment of the day feels like a race against the clock. To borrow a phrase from Carrie Fisher, which is in my bio there; I'll just toss it out again -- "These days even instant gratification takes too long." (Laughter) And if you think about how we to try to make things better, what do we do? No, we speed them up, don't we? So we used to dial; now we speed dial. We used to read; now we speed read. We used to walk; now we speed walk. And of course, we used to date and now we speed date. And even things that are by their very nature slow -- we try and speed them up too. So I was in New York recently, and I walked past a gym that had an advertisement in the window for a new course, a new evening course. And it was for, you guessed it, speed yoga. So this -- the perfect solution for time-starved professionals who want to, you know, salute the sun, but only want to give over about 20 minutes to it. I mean, these are sort of the extreme examples, and they're amusing and good to laugh at.
 
-→ https://www.ted.com/talks/carl_honore_in_praise_of_slowness
+→ [https://www.ted.com/talks/carl_honore_in_praise_of_slowness](https://www.ted.com/talks/carl_honore_in_praise_of_slowness)
 
 
 ### Simplicity sells
@@ -33,7 +33,7 @@ tags: linked, ted talks
 
 > But it turns out I was wrong, right? Because the iPod came out, and it violated every bit of common wisdom. Other products cost less; other products had more features, they had voice recorders and FM transmitters. The other products were backed by Microsoft, with an open standard, not Apple's propriety standard. But the iPod won -- this is the one they wanted. The lesson was: **simplicity sells**. And there are signs that the industry is getting the message.
 
-→ https://www.ted.com/talks/david_pogue_simplicity_sells
+→ [https://www.ted.com/talks/david_pogue_simplicity_sells](https://www.ted.com/talks/david_pogue_simplicity_sells)
 
 
 ### The paradox of choice
@@ -46,13 +46,13 @@ tags: linked, ted talks
 
 > So paralysis is a consequence of having too many choices. And I think it makes the world look like this.
 
-→ https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice
+→ [https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice](https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice)
 
 
 ### Why believe in others
 
 > In this rare clip from 1972, legendary psychiatrist and Holocaust-survivor Viktor Frankl delivers a powerful message about the human search for meaning -- and the most important gift we can give others.
 
-→ https://www.ted.com/talks/viktor_frankl_why_believe_in_others
+→ [https://www.ted.com/talks/viktor_frankl_why_believe_in_others](https://www.ted.com/talks/viktor_frankl_why_believe_in_others)
 
 

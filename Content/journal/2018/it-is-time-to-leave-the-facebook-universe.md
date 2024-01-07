@@ -39,70 +39,70 @@ Below are 10 articles that are really interesting to read. It should open your e
 #### Facebook Is Giving Advertisers Access to Your Shadow Contact Information
 > “I think that many users don’t fully understand how ad targeting works today: that advertisers can literally specify exactly which users should see their ads by uploading the users’ email addresses, phone numbers, names+dates of birth, etc,” said Mislove. “In describing this work to colleagues, many computer scientists were surprised by this, and we’re even more surprised to learn that not only Facebook, but also Google, Pinterest, and Twitter all offer related services. Thus, we think there is a significant need to educate users about how exactly targeted advertising on such platforms works today.”
 
-→ https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051
+→ [https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051](https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051)
 
 
 #### Exclusive: WhatsApp Cofounder Brian Acton Gives The Inside Story On #DeleteFacebook And Why He Left $850 Million Behind
 
 > “More than four years ago, Acton and his cofounder, Jan Koum, sold WhatsApp, which had relatively insignificant revenue, to Facebook for $22 billion, one of the most stunning acquisitions of the century. Ten months ago he left Facebook, saying he wanted to focus on a nonprofit. Then in March, as details of the Cambridge Analytica scandal oozed out, he sent a Tweet that quickly went viral and shocked his former employers, who had made him a billionaire many times over: “It is time. #deletefacebook.” No explanation followed. He hasn’t sent another Tweet since.”
 
-→ https://www.forbes.com/sites/parmyolson/2018/09/26/exclusive-whatsapp-cofounder-brian-acton-gives-the-inside-story-on-deletefacebook-and-why-he-left-850-million-behind/
+→ [https://www.forbes.com/sites/parmyolson/2018/09/26/exclusive-whatsapp-cofounder-brian-acton-gives-the-inside-story-on-deletefacebook-and-why-he-left-850-million-behind/](https://www.forbes.com/sites/parmyolson/2018/09/26/exclusive-whatsapp-cofounder-brian-acton-gives-the-inside-story-on-deletefacebook-and-why-he-left-850-million-behind/)
 
 
 #### Facebook’s New Message to WhatsApp: Make Money
 
 > “WhatsApp on Wednesday detailed plans to sell advertisements and charge big companies that use its service to interact with customers, launching its first major revenue streams as growth at Facebook’s main app is starting to decelerate.”
 
-→ https://www.wsj.com/articles/facebooks-new-message-to-whatsapp-make-money-1533139325
+→ [https://www.wsj.com/articles/facebooks-new-message-to-whatsapp-make-money-1533139325](https://www.wsj.com/articles/facebooks-new-message-to-whatsapp-make-money-1533139325)
 
 
 #### Hating Facebook
 
 > “I hate that, if I somehow don’t want to consign my personal data, beliefs, preferences, relationships, work history, daily plans, and private messages to a massive advertising corporation, I have to risk missing out on seminal life events. Not being on Facebook is sort of like not having a cellphone. Sure, me and a small number of weirdos can opt out, but we are increasingly disadvantaged by it. The disadvantage comes from the larger society relying more and more on such technologies. If even a small subset of your friends make heavy use of social media, you ARE missing out, and sometimes you can miss out on important life or death stuff.”
 
-→ https://web.archive.org/web/20190117001803/https://righteousruminations.blogspot.com/2015/06/hating-facebook.html
+→ [https://web.archive.org/web/20190117001803/https://righteousruminations.blogspot.com/2015/06/hating-facebook.html](https://web.archive.org/web/20190117001803/https://righteousruminations.blogspot.com/2015/06/hating-facebook.html)
 
 
 #### Achtung! Decentralize, decentralize, decentralize!
 
 > “I can hardly believe it, but the media is finally putting Facebook’s feet to the fire! No longer is it just the weird paranoid kids shouting at everyone to stop giving all of their information to these companies. We need to take this bull by the horns and drive it in a productive direction, and for that reason, it’s time to talk about decentralization, federation, and open source.”
 
-→ https://drewdevault.com/2018/03/24/Decentralize-decentralize-decentralize.html
+→ [https://drewdevault.com/2018/03/24/Decentralize-decentralize-decentralize.html](https://drewdevault.com/2018/03/24/Decentralize-decentralize-decentralize.html)
 
 
 #### Facebook apologizes for privacy breach with full-page newspaper ads
 
 > “Facebook isn’t just relying on TV appearances to apologize for its poor handling of Cambridge Analytica’s data sharing. The social network took out full-page apology ads in several major US and UK Sunday newspapers, including the New York Times, Wall Street Journal, Washington Post, Sunday Telegraph and Sunday Times. In each case, the ad included a missive from Mark Zuckerberg, who said he was “sorry” Facebook didn’t “do more” when it learned that Cambridge Analytica had harvested data on more than 50 million people without their permission.”
 
-→ https://www.engadget.com/2018-03-25-facebook-apologizes-for-privacy-breach-with-newspaper-ads.html
+→ [https://www.engadget.com/2018-03-25-facebook-apologizes-for-privacy-breach-with-newspaper-ads.html](https://www.engadget.com/2018-03-25-facebook-apologizes-for-privacy-breach-with-newspaper-ads.html)
 
 
 #### #deletefacebook
 
 > “Facebook is using us. It is actively giving away our information. It is creating an echo chamber in the name of connection. It surfaces the divisive and destroys the real reason we began using social media in the first place – human connection. — It is a cancer.”
 
-→ https://techcrunch.com/2018/03/19/deletefacebook/
+→ [https://techcrunch.com/2018/03/19/deletefacebook/](https://techcrunch.com/2018/03/19/deletefacebook/)
 
 
 #### Edward Snowden: Facebook is a surveillance company rebranded as ‘social media’
 
 > “Businesses that make money by collecting and selling detailed records of private lives were once plainly described as “surveillance companies.” Their rebranding as “social media” is the most successful deception since the Department of War became the Department of Defense.”
 
-→ https://web.archive.org/web/20190123021812/https://www.washingtonexaminer.com/news/edward-snowden-facebook-is-a-surveillance-company-rebranded-as-social-media
+→ [https://web.archive.org/web/20190123021812/https://www.washingtonexaminer.com/news/edward-snowden-facebook-is-a-surveillance-company-rebranded-as-social-media](https://web.archive.org/web/20190123021812/https://www.washingtonexaminer.com/news/edward-snowden-facebook-is-a-surveillance-company-rebranded-as-social-media)
 
 
 #### What Instagram users need to know about Facebook’s security breach
 
 > “Due to the nature of the hack, Facebook cannot rule out the fact that attackers may have also accessed any Instagram account linked to an affected Facebook account through Facebook Login. Still, it’s worth remembering that while Facebook can’t rule it out, the company has no evidence (yet) of this kind of activity.”
 
-→ https://techcrunch.com/2018/09/28/facebook-hack-instagram-facebook-login/
+→ [https://techcrunch.com/2018/09/28/facebook-hack-instagram-facebook-login/](https://techcrunch.com/2018/09/28/facebook-hack-instagram-facebook-login/)
 
 
 #### The Facebook hack affecting 50 million people also let the attackers access users’ Tinder, Spotify, and Instagram accounts
 
 > “So what happened? In short, the attackers found a way to trick Facebook into issuing them “access tokens” — basically, digital keys — that let them access other users’ accounts as if they were that user. After spotting some unusual activity earlier this month, Facebook realized what was going on on Tuesday evening and subsequently revoked these access tokens before disclosing the hack publicly on Friday — though not before 50 million people were affected.”
 
-→ https://www.businessinsider.com/facebook-hack-tinder-instagram-spotify-accounts-2018-9?r=DE&IR=T
+→ [https://www.businessinsider.com/facebook-hack-tinder-instagram-spotify-accounts-2018-9?r=DE&IR=T](https://www.businessinsider.com/facebook-hack-tinder-instagram-spotify-accounts-2018-9?r=DE&IR=T)
 
 
 ### Alternatives for Facebook Universe

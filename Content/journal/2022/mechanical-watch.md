@@ -9,6 +9,6 @@ tags: linked
 
 > Over the course of this article I’ll explain the workings of the mechanism seen in the demonstration below. You can drag the device around to change your viewing angle, and you can use the slider to peek at what’s going on inside.
 
-→ https://ciechanow.ski/mechanical-watch/
+→ [https://ciechanow.ski/mechanical-watch/](https://ciechanow.ski/mechanical-watch/)
 
 Awesome explanation about the Mechanical Watch. I am a big fan of Bartosz Ciechanowski work, his explanations are clear and have cool interactive examples. Since I own a mechanical watch myself this article was extra interesting to me.

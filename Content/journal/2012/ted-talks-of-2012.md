@@ -2,14 +2,14 @@
 title: TED Talks of 2012
 date: 2012-12-31 05:00
 description: TED Talks of 2012
-tags: linked, ted talks
+tags: linked, tedtalks
 ---
 
 ### How the Internet will (one day) transform government
 
 > The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens.
 
-→ https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government
+→ [https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)
 
 
 ### The power of introverts
@@ -20,7 +20,7 @@ tags: linked, ted talks
 
 > And what I'm saying is that culturally, we need a much better balance. We need more of a yin and yang between these two types. This is especially important when it comes to creativity and to productivity, because when psychologists look at the lives of the most creative people, what they find are people who are very good at exchanging ideas and advancing ideas, but who also have a serious streak of introversion in them.
 
-→ https://www.ted.com/talks/susan_cain_the_power_of_introverts
+→ [https://www.ted.com/talks/susan_cain_the_power_of_introverts](https://www.ted.com/talks/susan_cain_the_power_of_introverts)
 
 
 ### The moral roots of liberals and conservatives
@@ -29,14 +29,14 @@ tags: linked, ted talks
 
 > This trait also tells us a lot about politics. The main researcher of this trait, Robert McCrae, says that "Open individuals have an affinity for liberal, progressive, left-wing political views ..." They like a society which is open and changing, "... whereas closed individuals prefer conservative, traditional, right-wing views."
 
-→ https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives
+→ [https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives](https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives)
 
 
 ### The optimism bias
 
 > I'm going to talk to you about optimism -- or more precisely, the optimism bias. It's a cognitive illusion that we've been studying in my lab for the past few years, and 80 percent of us have it. It's our tendency to overestimate our likelihood of experiencing good events in our lives and underestimate our likelihood of experiencing bad events. So we underestimate our likelihood of suffering from cancer, being in a car accident. We overestimate our longevity, our career prospects. In short, we're more optimistic than realistic, but we are oblivious to the fact.
 
-→ https://www.ted.com/talks/tali_sharot_the_optimism_bias
+→ [https://www.ted.com/talks/tali_sharot_the_optimism_bias](https://www.ted.com/talks/tali_sharot_the_optimism_bias)
 
 
 ### Tracking our online trackers
@@ -47,4 +47,4 @@ tags: linked, ted talks
 
 > In fact, there's an entire industry formed around following us through the digital woods and compiling a profile on each of us. And when all of that data is held, they can do almost whatever they want with it. This is an area today that has very few regulations and even fewer rules. Except for some of the recent announcements here in the United States and in Europe, it's an area of consumer protection that's almost entirely naked.
 
-→ https://www.ted.com/talks/gary_kovacs_tracking_our_online_trackers
+→ [https://www.ted.com/talks/gary_kovacs_tracking_our_online_trackers](https://www.ted.com/talks/gary_kovacs_tracking_our_online_trackers)

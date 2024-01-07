@@ -14,4 +14,4 @@ You can create Tips. Decide where to display them. Make rules when they need to 
 When an user already used a functionality TipKit does not show the Tip linked to that functionality.
 Also synced across devices with iCloud.
 
-Nice WWDC session to watch: https://developer.apple.com/videos/play/wwdc2023/10229/
+Nice [WWDC session](https://developer.apple.com/videos/play/wwdc2023/10229/) to watch.

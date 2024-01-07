@@ -42,5 +42,5 @@ iPhone
 ### Mentioned
 SecKey is mentioned two times on a German iPhone news website:
 
-- https://www.iphone-ticker.de/seckey-schlichte-zwei-faktor-app-mit-icloud-synchronisation-136079/
-- https://www.iphone-ticker.de/seckey-einmal-passwoerter-schoen-anzusehen-169518/
+- [https://www.iphone-ticker.de/seckey-schlichte-zwei-faktor-app-mit-icloud-synchronisation-136079/](https://www.iphone-ticker.de/seckey-schlichte-zwei-faktor-app-mit-icloud-synchronisation-136079/)
+- [https://www.iphone-ticker.de/seckey-einmal-passwoerter-schoen-anzusehen-169518/](https://www.iphone-ticker.de/seckey-einmal-passwoerter-schoen-anzusehen-169518/)

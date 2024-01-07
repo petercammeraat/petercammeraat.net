@@ -13,6 +13,6 @@ My favourite client was TweetBot. I also used Twitterrific for a time. Both made
 
 > “Since 2007, Twitterrific helped define the shape of the Twitter experience. It was the first desktop client, the first mobile client, one of the very first apps in the App Store, an Apple Design award winner, and it even helped redefine the word “tweet” in the dictionary. Ollie, Twitterrific’s bluebird mascot, was so popular it even prompted Twitter themselves to later adopt a bluebird logo of their very own. Our little app made a big dent on the world!”
 
-→ https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/
+→ [https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/](https://blog.iconfactory.com/2023/01/twitterrific-end-of-an-era/)
 
 Twitter client apps were used by designers and developers to demonstrate their abilities and push the boundaries of user experience and design for a long time. One example of this is the developer of Tweetie who created the "pull-to-refresh" mechanism, which is now a common feature in mobile apps.

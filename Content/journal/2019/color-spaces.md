@@ -11,6 +11,6 @@ tags: linked
 
 > This article is dedicated entirely to RGB values from RGB color spaces. It may seem fairly restrictive, but considering the domination of displays as the medium for color presentation, it is a pragmatic approach and it ultimately won’t prevent us from describing everything we can see.
 
-→ https://ciechanow.ski/color-spaces/
+→ [https://ciechanow.ski/color-spaces/](https://ciechanow.ski/color-spaces/)
 
 Good explanation about color spaces by Bartosz Ciechanowski.

@@ -11,6 +11,6 @@ tags: linked
 
 > We’ll eventually understand how these sounds are created and how they get to your ears, but we have to start by talking about the medium that is most commonly associated with sound – air.
 
-→ https://ciechanow.ski/sound/
+→ [https://ciechanow.ski/sound/](https://ciechanow.ski/sound/)
 
 Awesome explanation about Sound. I am a big fan of Bartosz Ciechanowski work, his explanations are clear and have cool interactive examples.

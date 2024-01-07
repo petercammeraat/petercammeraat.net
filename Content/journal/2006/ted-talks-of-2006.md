@@ -2,7 +2,7 @@
 title: TED Talks of 2006
 date: 2006-12-31 05:00
 description: TED Talks of 2006
-tags: linked, ted talks
+tags: linked
 ---
 
 ### Do schools kill creativity?
@@ -11,7 +11,7 @@ tags: linked, ted talks
 
 > We know three things about intelligence. One, it's diverse. We think about the world in all the ways that we experience it. We think visually, we think in sound, we think kinesthetically. We think in abstract terms, we think in movement. Secondly, intelligence is dynamic. If you look at the interactions of a human brain, as we heard yesterday from a number of presentations, intelligence is wonderfully interactive. The brain isn't divided into compartments. In fact, creativity -- which I define as the process of having original ideas that have value -- more often than not comes about through the interaction of different disciplinary ways of seeing things.
 
-→ https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity/
+→ [https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity/](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity/)
 
 
 ### The radical promise of the multi-touch interface
@@ -22,4 +22,4 @@ tags: linked, ted talks
 
 > So, for instance, we have a lava lamp application here. Now, you can see, I can use both of my hands to kind of squeeze and put the blobs together. I can inject heat into the system here, or I can pull it apart with two of my fingers. It's completely intuitive; there's no instruction manual.
 
-→ https://www.ted.com/talks/jeff_han_the_radical_promise_of_the_multi_touch_interface
+→ [https://www.ted.com/talks/jeff_han_the_radical_promise_of_the_multi_touch_interface](https://www.ted.com/talks/jeff_han_the_radical_promise_of_the_multi_touch_interface)

@@ -36,6 +36,6 @@ They are also very open[^3] about the cost:
 
 
 
-[^1]: https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8
-[^2]: https://dev.37signals.com/bringing-our-apps-back-home/
-[^3]: https://dev.37signals.com/our-cloud-spend-in-2022/
+[^1]: [https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
+[^2]: [https://dev.37signals.com/bringing-our-apps-back-home/](https://dev.37signals.com/bringing-our-apps-back-home/)
+[^3]: [https://dev.37signals.com/our-cloud-spend-in-2022/](https://dev.37signals.com/our-cloud-spend-in-2022/)

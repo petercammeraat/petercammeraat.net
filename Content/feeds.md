@@ -5,7 +5,7 @@ description: Follow me with feeds
 ---
 
 RSS Feeds for petercammeraat.net
-- **All:** https://petercammeraat.net/index.xml
-- **Stay up to date about Quiet** https://petercammeraat.net/tags/quiet/index.xml
+- **All:** [https://petercammeraat.net/index.xml](https://petercammeraat.net/index.xml)
+- **Stay up to date about Quiet** [https://petercammeraat.net/tags/quiet/index.xml](https://petercammeraat.net/tags/quiet/index.xml)
 
 Learn more about [RSS Feeds](/journal/2023/using-rss-feeds/).

@@ -63,9 +63,9 @@ tags: linked
 > For woman, life, freedom.
 
 
-→ https://en.wikipedia.org/wiki/Baraye
+→ [https://en.wikipedia.org/wiki/Baraye](https://en.wikipedia.org/wiki/Baraye)
 
-→ https://www.youtube.com/watch?v=z8xXiqyfBg0
+→ [https://www.youtube.com/watch?v=z8xXiqyfBg0](https://www.youtube.com/watch?v=z8xXiqyfBg0)
 
 
 A beautiful song that is now the soundtrack of the protests in Iran. I cried!

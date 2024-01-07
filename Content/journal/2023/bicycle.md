@@ -11,6 +11,6 @@ tags: linked
 
 > In this article, I’ll focus on the delicate interplay between many of the forces that act on a bicycle and its parts when riding. We’ll witness how forces applied through tires make a bicycle accelerate, brake, and turn, and we’ll also investigate how the wheels and the frame handle those different forces without breaking.
 
-→ https://ciechanow.ski/bicycle/
+→ [https://ciechanow.ski/bicycle/](https://ciechanow.ski/bicycle/)
 
 Awesome explanation about the bicycle. It seems simple. But there is more at play then you think. Worth the read, as always.

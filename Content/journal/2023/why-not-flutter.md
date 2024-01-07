@@ -23,7 +23,7 @@ When comparing Dart to languages like Kotlin or Swift, developers may consider D
 
 ##### Google
 
-Flutter and Dart are products from Google. There is an high change they end up being killed. Google has a long history of killing products. You can build on that. See https://killedbygoogle.com
+Flutter and Dart are products from Google. There is an high change they end up being killed. Google has a long history of killing products. You can build on that. See [https://killedbygoogle.com](https://killedbygoogle.com)
 
 
 ##### Smaller Community and Ecosystem

@@ -2,7 +2,7 @@
 title: TED Talks of 2020
 date: 2020-12-31 05:00
 description: TED Talks of 2020
-tags: linked, ted talks
+tags: linked, tedtalks
 ---
 
 ### Inside the massive (and unregulated) world of surveillance tech
@@ -13,14 +13,14 @@ tags: linked, ted talks
 
 > The Israeli-based company NSO Group has reportedly sold its technology to the regime in Saudi Arabia, which has been accused of harassing, and even, in one case, killing one of its political opponents. And we do think of weapons as things that kill people. But in the information age, some of the most powerful weapons are things that can track and identify us.
 
-→ https://www.ted.com/talks/sharon_weinberger_inside_the_massive_and_unregulated_world_of_surveillance_tech
+→ [https://www.ted.com/talks/sharon_weinberger_inside_the_massive_and_unregulated_world_of_surveillance_tech](https://www.ted.com/talks/sharon_weinberger_inside_the_massive_and_unregulated_world_of_surveillance_tech)
 
 
 ### The future of digital communication and privacy
 
 > People send 100 billion WhatsApp messages every day -- and they're all encrypted to protect them from potentially curious entities like companies, governments and even WhatsApp itself. With our increased reliance on digital communication tools during the COVID-19 pandemic, our fundamental right to privacy is more important than ever, says Will Cathcart, head of WhatsApp. He describes the tech and protocols the company built to prevent encryption services from being misused to spread disinformation or commit crimes -- while still safeguarding privacy.
 
-→ https://www.ted.com/talks/will_cathcart_the_future_of_digital_communication_and_privacy
+→ [https://www.ted.com/talks/will_cathcart_the_future_of_digital_communication_and_privacy](https://www.ted.com/talks/will_cathcart_the_future_of_digital_communication_and_privacy)
 
 
 ### What tech companies know about your kids
@@ -31,7 +31,7 @@ tags: linked, ted talks
 
 > But we need to abandon the belief that these technologies can objectively profile humans and that we can rely on them to make data-driven decisions about individual lives. Because they can't profile humans. Data traces are not the mirror of who we are. Humans think one thing and say the opposite, feel one way and act differently. Algorithmic predictions or our digital practices cannot account for the unpredictability and complexity of human experience.
 
-→ https://www.ted.com/talks/veronica_barassi_what_tech_companies_know_about_your_kids
+→ [https://www.ted.com/talks/veronica_barassi_what_tech_companies_know_about_your_kids](https://www.ted.com/talks/veronica_barassi_what_tech_companies_know_about_your_kids)
 
 
 ### What you need to know about face surveillance
@@ -42,6 +42,6 @@ tags: linked, ted talks
 
 > Just consider how trivial it would be for a government agency to put a surveillance camera outside a building where people meet for Alcoholics Anonymous meetings. They could connect that camera to a face-surveillance algorithm and a database, press a button and sit back and collect a record of every person receiving treatment for alcoholism. It would be just as easy for a government agency to use this technology to automatically identify every person who attended the Women's March or a Black Lives Matter protest. Even the technology industry is aware of the gravity of this problem.
 
-→ https://www.ted.com/talks/kade_crockford_what_you_need_to_know_about_face_surveillance
+→ [https://www.ted.com/talks/kade_crockford_what_you_need_to_know_about_face_surveillance](https://www.ted.com/talks/kade_crockford_what_you_need_to_know_about_face_surveillance)
 
 

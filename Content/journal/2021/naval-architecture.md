@@ -11,6 +11,6 @@ tags: linked
 
 > To understand why a ship rocks side-to-side in the wavy ocean waters, we first have to understand that it’s water itself that’s responsible for all of the ship’s behaviors. We’ll start with a simple device – a water-filled syringe.
 
-→ https://ciechanow.ski/naval-architecture/
+→ [https://ciechanow.ski/naval-architecture/](https://ciechanow.ski/naval-architecture/)
 
 Awesome explanation about Naval Architecture. I am a big fan of Bartosz Ciechanowski work, his explanations are clear and have cool interactive examples.

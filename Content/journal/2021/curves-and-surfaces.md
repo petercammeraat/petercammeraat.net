@@ -9,6 +9,6 @@ tags: linked
 
 > Throughout this article I’ll keep jumping back and forth between curves and surfaces to highlight how the ideas we develop for wiggly lines can be expanded onto three dimensional shells that we can shape.
 
-→ https://ciechanow.ski/curves-and-surfaces/
+→ [https://ciechanow.ski/curves-and-surfaces/](https://ciechanow.ski/curves-and-surfaces/)
 
 Awesome explanation about Curves and Surfaces. I am a big fan of Bartosz Ciechanowski work, his explanations are clear and have cool interactive examples.

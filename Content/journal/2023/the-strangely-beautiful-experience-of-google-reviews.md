@@ -9,6 +9,6 @@ tags: linked
 
 > It feels impossible to fully connect and empathize with all the people we interact with each day, to see the full existence of every person we pass on the street. It’s easier to keep your head down. But all these stories, these small nuggets of humanity buried in Google Reviews, feel like opportunities for us to practice that empathy. 
 
-→ https://longreads.com/2023/01/03/the-strangely-beautiful-experience-of-google-reviews/
+→ [https://longreads.com/2023/01/03/the-strangely-beautiful-experience-of-google-reviews/](https://longreads.com/2023/01/03/the-strangely-beautiful-experience-of-google-reviews/)
 
 I think I have been a reader of [longreads](https://longreads.com/) for the last 10 years. This website is a bliss for readers like me. Also this article shows that the good in people can be found unexpected places.

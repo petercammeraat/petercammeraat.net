@@ -9,6 +9,6 @@ tags: linked
 
 > With this article I’m hoping to show you that transparency in digital imaging is actually much more interesting than it seems – there is a lot of invisible depth and beauty in something that we often take for granted.
 
-→ https://ciechanow.ski/alpha-compositing/
+→ [https://ciechanow.ski/alpha-compositing/](https://ciechanow.ski/alpha-compositing/)
 
 Good explanation about alpha compositing by Bartosz Ciechanowski.

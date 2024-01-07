@@ -2,7 +2,7 @@
 title: My App Store Screenshots Flow
 date: 2023-06-30 17:00
 description: My App Store Screenshots Flow
-tags: how to
+tags: howto
 ---
 
 

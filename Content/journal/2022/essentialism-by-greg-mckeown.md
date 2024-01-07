@@ -13,4 +13,4 @@ In the book, McKeown argues that in order to lead a successful and fulfilling li
 
 > “What do I feel deeply inspired by?” and “What am I particularly talented at?” and “What meets a significant need in the world?” 
 
-→ https://gregmckeown.com/books/essentialism/
+→ [https://gregmckeown.com/books/essentialism/](https://gregmckeown.com/books/essentialism/)

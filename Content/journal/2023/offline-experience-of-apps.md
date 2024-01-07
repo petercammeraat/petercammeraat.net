@@ -2,7 +2,7 @@
 title: Offline experience of apps
 date: 2023-04-18 05:00
 description: Offline experience of apps - Provide an offline experience by default
-tags: user experience
+tags: ux
 ---
 
 ### Provide an offline experience by default
@@ -46,5 +46,5 @@ indication of progress.
 
 #### Sources
 
-- https://web.dev/offline-ux-design-guidelines/
-- https://uxplanet.org/youre-not-connected-to-internet-50a46ee016a7
+- [https://web.dev/offline-ux-design-guidelines/](https://web.dev/offline-ux-design-guidelines/)
+- [https://uxplanet.org/youre-not-connected-to-internet-50a46ee016a7](https://uxplanet.org/youre-not-connected-to-internet-50a46ee016a7)

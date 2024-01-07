@@ -13,4 +13,4 @@ The book contains lessons learned the hard way. Tony spent the first 10 years of
 
 > “People do stupid things when they have a giant budget—they overdesign, they overthink. That inevitably leads to longer runways, longer schedules, and slower heartbeats. Much, much slower. Generally any brand-new product should never take longer than 18 months to ship—24 at the limit. The sweet spot is somewhere between 9 and 18 months. That applies to hardware and software, atoms and bits.”
 
-→ https://www.buildc.com/the-book
+→ [https://www.buildc.com/the-book](https://www.buildc.com/the-book)

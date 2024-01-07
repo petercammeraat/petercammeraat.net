@@ -2,7 +2,7 @@
 title: Steve Jobs has passed away
 date: 2011-10-06 05:00
 description: Steve Jobs has passed away. Pioneer, visionary, humanitarian. You will be missed. Rest in Peace.
-tags: linked, steve jobs
+tags: linked
 ---
 
 Pioneer, visionary, humanitarian. You will be missed. Rest in Peace.

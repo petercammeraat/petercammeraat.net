@@ -13,4 +13,4 @@ The book argues that introverts are often overlooked and undervalued in a cultur
 
 > “So stay true to your own nature. If you like to do things in a slow and steady way, don't let others make you feel as if you have to race. If you enjoy depth, don't force yourself to seek breadth. If you prefer single-tasking to multi-tasking, stick to your guns. Being relatively unmoved by rewards gives you the incalculable power to go your own way.”
 
-→ https://susancain.net/book/quiet/
+→ [https://susancain.net/book/quiet/](https://susancain.net/book/quiet/)

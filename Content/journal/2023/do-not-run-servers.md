@@ -9,4 +9,4 @@ I listen for a few years now to the podcast Under the Radar. It is about develop
 
 This episode is named "Don’t Run Servers". It is about thinking outside the box and not default to use a server for some functionality. Often it is not needed at all.
 
-→ https://overcast.fm/+FgnYbdx_Y
+→ [https://overcast.fm/+FgnYbdx_Y](https://overcast.fm/+FgnYbdx_Y)

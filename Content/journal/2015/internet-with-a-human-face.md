@@ -13,4 +13,4 @@ tags: linked
 
 > Every programmer has firsthand experience of accidentally deleting something important. Our folklore as programmers is filled with stories of lost data, failed backups, inadvertently clobbering some vital piece of information, undoing months of work with a single keystroke. We learn to be afraid.
 
-→ https://idlewords.com/talks/internet_with_a_human_face.htm
+→ [https://idlewords.com/talks/internet_with_a_human_face.htm](https://idlewords.com/talks/internet_with_a_human_face.htm)

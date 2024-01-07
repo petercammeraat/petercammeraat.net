@@ -2,7 +2,7 @@
 title: Sync podcasts to iPod
 date: 2022-11-23 05:00
 description: Sync podcasts to iPod. To my delight I discovered that syncing music and podcast still works.
-tags: user experience
+tags: ux, macos
 ---
 
 So, [I do not have have a smartphone](../../2021/i-do-not-have-a-smartphone/) anymore..

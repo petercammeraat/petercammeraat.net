@@ -9,4 +9,4 @@ tags: linked
 	
 > All of it obscures a simpler solution. If you're only going to the corner store, ride a bicycle. If you're only displaying five sentences of text, use vanilla HTML. Hell, serve a textfile! Then you won't need compression hacks, integral signs, or elaborate Gantt charts of what assets load in what order. Browsers are really, really good at rendering vanilla HTML. We have the technology.
 
-→ https://idlewords.com/talks/website_obesity.htm
+→ [https://idlewords.com/talks/website_obesity.htm](https://idlewords.com/talks/website_obesity.htm)
