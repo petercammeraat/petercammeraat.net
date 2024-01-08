@@ -43,4 +43,13 @@ Note: Quiet does not block ads on the webpages you visit.
 
 ### FAQ's
 
-- [How Quiet Network Filter works](/blog/2021/how-quiet-network-filter-works/)
+- [How Quiet Network Filter works](/journal/2021/how-quiet-network-filter-works/)
+
+
+##### Hide rules
+- [Chatbots rule](/journal/2023/chatbots-rule-in-quiet/)
+- [Comments rule](/journal/2023/comments-rule-in-quiet/)
+- [Newsletter rule](/journal/2023/newsletter-rule-in-quiet/)
+- [Notifications rule](/journal/2023/notifications-rule-in-quiet/)
+- ['Relevant Content' rule](/journal/2023/relevant-content-rule-in-quiet/)
+- [Share Buttons rule](/journal/2023/share-buttons-rule-in-quiet/)
