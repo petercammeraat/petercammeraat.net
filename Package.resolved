@@ -39,10 +39,10 @@
     {
       "identity" : "plot",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/johnsundell/plot.git",
+      "location" : "https://github.com/petercammeraat/Plot",
       "state" : {
         "branch" : "master",
-        "revision" : "431c27c9ac97f8bcf6047b5bdbaef91b95a5330b"
+        "revision" : "6144e0acfe99d74533dc12019a0905d43c1417fb"
       }
     },
     {

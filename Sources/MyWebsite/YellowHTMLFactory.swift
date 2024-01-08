@@ -13,7 +13,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
     func makeIndexHTML(for index: Index, context: PublishingContext<Site>) throws -> HTML {
         HTML(
             .lang(context.site.language),
-            .head(for: index, on: context.site),
+            .customHead(for: index, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: nil)
                 Main {
@@ -69,7 +69,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
     func makeSectionHTML(for section: Section<Site>, context: PublishingContext<Site>) throws -> HTML {
         HTML(
             .lang(context.site.language),
-            .head(for: section, on: context.site),
+            .customHead(for: section, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: section.id)
                 Main {
@@ -91,7 +91,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
     func makeItemHTML(for item: Item<Site>, context: PublishingContext<Site>) throws -> HTML {
         HTML(
             .lang(context.site.language),
-            .head(for: item, on: context.site),
+            .customHead(for: item, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: nil)
                 Main {
@@ -121,7 +121,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
     func makePageHTML(for page: Page, context: PublishingContext<Site>) throws -> HTML {
         HTML(
             .lang(context.site.language),
-            .head(for: page, on: context.site),
+            .customHead(for: page, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: nil)
                 Main {
@@ -143,7 +143,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
     func makeTagListHTML(for page: TagListPage, context: PublishingContext<Site>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
-            .head(for: page, on: context.site),
+            .customHead(for: page, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: nil)
                 Main {
@@ -170,7 +170,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
     func makeTagDetailsHTML(for page: TagDetailsPage, context: PublishingContext<Site>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
-            .head(for: page, on: context.site),
+            .customHead(for: page, on: context.site),
             .body {
                 SiteNavigation(context: context, selectedSelectionID: nil)
                 Main {

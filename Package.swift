@@ -11,7 +11,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/johnsundell/publish.git", from: "0.8.0"),
-        .package(url: "https://github.com/johnsundell/plot.git", branch: "master")
+        .package(url: "https://github.com/petercammeraat/Plot", branch: "master")
     ],
     targets: [
         .executableTarget(
