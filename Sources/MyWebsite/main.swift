@@ -35,6 +35,7 @@ try MyWebsite().publish(using: [
     .addMarkdownFiles(),
     .sortItems(by: \.date, order: .descending),
     .generateHTML(withTheme: .yellow),
-    .generateRSSFeed(including: [.journal]),
+    .generateRSSFeed(including: [.journal], config: RSSFeedConfiguration(targetPath: "index.xml")),
+    .installPlugin(.generateRSSFeedsForTags()),
     .generateSiteMap()
 ])
