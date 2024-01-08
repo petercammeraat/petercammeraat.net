@@ -7,7 +7,7 @@ tags: ux
 
 At my jobby job the status quo is that we build apps like this: 
 
-![Flow of status quo](assets/images/journal/moving-away-from-building-prettified-json-viewers/status-quo.png "Flow of status quo")
+![Flow of status quo](../../../assets/images/journal/moving-away-from-building-prettified-json-viewers/status-quo.png "Flow of status quo")
 
 - View tells Controller* I want to show X
 - Controller tells Backend, I want X
@@ -27,7 +27,7 @@ It is very boring. Offloads all the logic and storage of data to a backend. Whic
 
 I want to challenge it. Make the flow a bit more complex:
 
-![Proposed change of flow](assets/images/journal/moving-away-from-building-prettified-json-viewers/proposed-change.png "Proposed change of flow")
+![Proposed change of flow](../../../assets/images/journal/moving-away-from-building-prettified-json-viewers/proposed-change.png "Proposed change of flow")
 
 
 In this new flow there is a Local Database and a Sync Engine added. 

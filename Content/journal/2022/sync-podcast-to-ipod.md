@@ -14,11 +14,11 @@ user experience of an old product that still works with the latest macOS version
 
 Download podcasts in the Apple Podcast app:
 
-![Podcast app](assets/images/journal/sync-podcasts-to-ipod/podcast-app.png "Podcast app")
+![Podcast app](../../../assets/images/journal/sync-podcasts-to-ipod/podcast-app.png "Podcast app")
 
 
 When you hookup an iPod it will appear in Finder, there you can sync podcasts with the iPod:
 
-![Sync to iPod](assets/images/journal/sync-podcasts-to-ipod/podcast-ipod-sync.png "Sync to iPod")
+![Sync to iPod](../../../assets/images/journal/sync-podcasts-to-ipod/podcast-ipod-sync.png "Sync to iPod")
 
 To the Apple engineers that build iPod support into Finder, 🥳 thank you!

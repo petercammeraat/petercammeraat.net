@@ -30,13 +30,13 @@ SecKey was first build in UIKit. When SwiftUI came along I rebuild the app in Sw
 ### Design
 
 Mac
-![SecKey Mac Screenshot](images/projects/seckey/seckey-mac.png "SecKey Mac Screenshot")
+![SecKey Mac Screenshot](../../assets/images/projects/seckey/seckey-mac.png "SecKey Mac Screenshot")
 
 iPad
-![SecKey iPad Screenshot](images/projects/seckey/seckey-ipad.png "SecKey iPad Screenshot")
+![SecKey iPad Screenshot](../../assets/images/projects/seckey/seckey-ipad.png "SecKey iPad Screenshot")
 
 iPhone
-![SecKey iPhone Screenshot](images/projects/seckey/seckey-iphone.png "SecKey iPhone Screenshot")
+![SecKey iPhone Screenshot](../../assets/images/projects/seckey/seckey-iphone.png "SecKey iPhone Screenshot")
 
 
 ### Mentioned

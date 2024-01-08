@@ -29,37 +29,37 @@ Talning is build with SwiftUI, WatchKit, UIKit, Foundation, CoreData, CloudKit, 
 ### Design
 
 iPhone
-![Talning iPhone Screenshot](images/projects/talning/talning-iphone-1.png "Talning iPhone Screenshot")
+![Talning iPhone Screenshot](../../assets/images/projects/talning/talning-iphone-1.png "Talning iPhone Screenshot")
 
-![Talning iPhone Screenshot](images/projects/talning/talning-iphone-2.png "Talning iPhone Screenshot")
+![Talning iPhone Screenshot](../../assets/images/projects/talning/talning-iphone-2.png "Talning iPhone Screenshot")
 
-![Talning iPhone Screenshot](images/projects/talning/talning-iphone-3.png "Talning iPhone Screenshot")
+![Talning iPhone Screenshot](../../assets/images/projects/talning/talning-iphone-3.png "Talning iPhone Screenshot")
 
-![Talning iPhone Screenshot](images/projects/talning/talning-iphone-4.png "Talning iPhone Screenshot")
+![Talning iPhone Screenshot](../../assets/images/projects/talning/talning-iphone-4.png "Talning iPhone Screenshot")
 
-![Talning iPhone Screenshot](images/projects/talning/talning-iphone-5.png "Talning iPhone Screenshot")
+![Talning iPhone Screenshot](../../assets/images/projects/talning/talning-iphone-5.png "Talning iPhone Screenshot")
 
 iPad
-![Talning iPad Screenshot](images/projects/talning/talning-ipad-1.png "Talning iPad Screenshot")
+![Talning iPad Screenshot](../../assets/images/projects/talning/talning-ipad-1.png "Talning iPad Screenshot")
 
-![Talning iPad Screenshot](images/projects/talning/talning-ipad-2.png "Talning iPad Screenshot")
+![Talning iPad Screenshot](../../assets/images/projects/talning/talning-ipad-2.png "Talning iPad Screenshot")
 
-![Talning iPad Screenshot](images/projects/talning/talning-ipad-3.png "Talning iPad Screenshot")
+![Talning iPad Screenshot](../../assets/images/projects/talning/talning-ipad-3.png "Talning iPad Screenshot")
 
-![Talning iPad Screenshot](images/projects/talning/talning-ipad-4.png "Talning iPad Screenshot")
+![Talning iPad Screenshot](../../assets/images/projects/talning/talning-ipad-4.png "Talning iPad Screenshot")
 
-![Talning iPad Screenshot](images/projects/talning/talning-ipad-5.png "Talning iPad Screenshot")
+![Talning iPad Screenshot](../../assets/images/projects/talning/talning-ipad-5.png "Talning iPad Screenshot")
 
 Mac
-![Talning Mac Screenshot](images/projects/talning/talning-mac-1.png "Talning Mac Screenshot")
+![Talning Mac Screenshot](../../assets/images/projects/talning/talning-mac-1.png "Talning Mac Screenshot")
 
-![Talning Mac Screenshot](images/projects/talning/talning-mac-2.png "Talning Mac Screenshot")
+![Talning Mac Screenshot](../../assets/images/projects/talning/talning-mac-2.png "Talning Mac Screenshot")
 
-![Talning Mac Screenshot](images/projects/talning/talning-mac-3.png "Talning Mac Screenshot")
+![Talning Mac Screenshot](../../assets/images/projects/talning/talning-mac-3.png "Talning Mac Screenshot")
 
 Apple TV
-![Talning Apple TV Screenshot](images/projects/talning/talning-apple-tv.png "Talning Apple TV Screenshot")
+![Talning Apple TV Screenshot](../../assets/images/projects/talning/talning-apple-tv.png "Talning Apple TV Screenshot")
 
 Apple Watch
-![Talning Apple Watch Screenshot](images/projects/talning/talning-apple-watch.png "Talning Apple Watch Screenshot")
+![Talning Apple Watch Screenshot](../../assets/images/projects/talning/talning-apple-watch.png "Talning Apple Watch Screenshot")
 

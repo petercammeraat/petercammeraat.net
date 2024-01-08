@@ -17,7 +17,7 @@ Build with AppKit, CoreData, CloudKit, and Foundation
 ### Design 
 
 Dark mode
-![Internal Phone Number screenshot dark mode](images/projects/internal-phone-numbers/internal-phone-numbers-dark-mode.png "Internal Phone Number screenshot dark mode")
+![Internal Phone Number screenshot dark mode](../../assets/images/projects/internal-phone-numbers/internal-phone-numbers-dark-mode.png "Internal Phone Number screenshot dark mode")
 
 Light mode
-![Internal Phone Number screenshot light mode](images/projects/internal-phone-numbers/internal-phone-numbers-light-mode.png "Internal Phone Number screenshot light mode")
+![Internal Phone Number screenshot light mode](../../assets/images/projects/internal-phone-numbers/internal-phone-numbers-light-mode.png "Internal Phone Number screenshot light mode")

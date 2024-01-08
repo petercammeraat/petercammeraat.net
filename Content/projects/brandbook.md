@@ -31,14 +31,14 @@ Build with AppKit, CoreData, CloudKit, and other core macOS technologies for sys
 
 ### Design 
 
-![BrandBook screenshot](images/projects/brandbook/brandbook-screenshot-1.png "BrandBook screenshot")
+![BrandBook screenshot](../../assets/images/projects/brandbook/brandbook-screenshot-1.png "BrandBook screenshot")
 
-![BrandBook screenshot](images/projects/brandbook/brandbook-screenshot-2.png "BrandBook screenshot")
+![BrandBook screenshot](../../assets/images/projects/brandbook/brandbook-screenshot-2.png "BrandBook screenshot")
 
-![BrandBook screenshot](images/projects/brandbook/brandbook-screenshot-3.png "BrandBook screenshot")
+![BrandBook screenshot](../../assets/images/projects/brandbook/brandbook-screenshot-3.png "BrandBook screenshot")
 
-![BrandBook screenshot](images/projects/brandbook/brandbook-screenshot-4.png "BrandBook screenshot")
+![BrandBook screenshot](../../assets/images/projects/brandbook/brandbook-screenshot-4.png "BrandBook screenshot")
 
-![BrandBook screenshot](images/projects/brandbook/brandbook-screenshot-5.png "BrandBook screenshot")
+![BrandBook screenshot](../../assets/images/projects/brandbook/brandbook-screenshot-5.png "BrandBook screenshot")
 
-![BrandBook screenshot](images/projects/brandbook/brandbook-screenshot-6.png "BrandBook screenshot")
+![BrandBook screenshot](../../assets/images/projects/brandbook/brandbook-screenshot-6.png "BrandBook screenshot")

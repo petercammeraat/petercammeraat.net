@@ -24,6 +24,6 @@ Adding this entitlement to your project is easy. You can find all [documentation
 
 An Additional Capabilities tab has appeared in the Identifier page of you project at Certificates, Identifiers & Profiles.
 
-![Additional Capabilities tab](assets/images/journal/getting-an-entitlement-for-family-control-distribution/additional-capabilities.png "Additional Capabilities tab")
+![Additional Capabilities tab](../../../assets/images/journal/getting-an-entitlement-for-family-control-distribution/additional-capabilities.png "Additional Capabilities tab")
 
 Lesson learned: RTFM 😂

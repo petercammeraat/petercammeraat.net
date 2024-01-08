@@ -108,6 +108,8 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
                             }
                             
                             Div(item.content.body).class("article-post")
+
+                            Suggested(context: context, item: item)
                         }
                     }
                 }

@@ -189,7 +189,7 @@ Now we have a nice file name that we can use in the next step.
 I has a nice UI for you (or designer) can make a nice framing of the screenshot. You can add text (localised), background colours, and other images.
 
 
-![ScreenshotFramer UI](assets/images/journal/my-app-store-screenshot-flow/screenshot-framer.png "ScreenshotFramer UI")
+![ScreenshotFramer UI](../../../assets/images/journal/my-app-store-screenshot-flow/screenshot-framer.png "ScreenshotFramer UI")
 
 
 To create framed screenshot for all devices simply type this command in the Terminal.

@@ -20,7 +20,7 @@ iMok was the first app I build for the iPhone. Written in Objective-C using UIKi
 
 ### Design
 
-![iMok Screenshot](images/projects/imok/imok-screenshot.png "iMok Screenshot")
+![iMok Screenshot](../../assets/images/projects/imok/imok-screenshot.png "iMok Screenshot")
 
 
 ### Mentioned

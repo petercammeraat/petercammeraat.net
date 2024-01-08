@@ -1,5 +1,5 @@
 //
-//  Theme+Yellow.swift
+//  main.swift
 //  petercammeraat.net
 //  BSD 3-Clause License
 //  Copyright 2024 Peter Cammeraat

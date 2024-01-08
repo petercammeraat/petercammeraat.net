@@ -12,9 +12,16 @@ A good user experience for a permission request is important, because often perm
 
 I will let an hero of mine speak. 
 
-{{< video src="/assets/videos/permission-request-guidelines/steve-jobs-about-privacy-and-permissions.mp4" type="video/mp4" preload="auto" >}}
+<video class="video-shortcode" preload="auto" controls>
+    <source src="https://petercammeraat.net/assets/videos/permission-request-guidelines/steve-jobs-about-privacy-and-permissions.mp4" type="video/mp4">
+    There should have been a video here but your browser does not seem
+    to support it.
+</video>
 
+<br/>
 <small>Recorded during D8 Conference in 2010 and is an interview with Steve Jobs by Walt Mossberg and Kara Swisher.</small>
+<br/>
+<br/>
 
 Permission request exist to inform the user what data is used for what purpose in an application.
 
@@ -86,7 +93,7 @@ In the latest iOS 15 update multiple apps allow fine-grained control, on badges 
 
 Fine-grained control is not only used for notifications but you also see it being used for location access.
 
-![Find My app](assets/images/journal/permission-request-guidelines/find-my-app.png "Find My app")
+![Find My app](../../../assets/images/journal/permission-request-guidelines/find-my-app.png "Find My app")
 
 The Find My app is a good example. The app needs location access to see where my devices are. But the user can stop location data being used for the Share my location functionality of the app.
 

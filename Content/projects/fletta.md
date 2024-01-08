@@ -7,16 +7,16 @@ description: Fletta is a webbrowser specially designed for usages in public plac
 Fletta is a webbrowser specially designed for usages in public places, for example in hotels, restaurants, libraries, etc. It wil take cares of your users privacy.
 
 **Clean:** When users push the recycle button Fletta will delete all history, cookies and cache.
-![Fletta Clean Button](images/projects/fletta/fletta-clean.png "Fletta Clean Button")
+![Fletta Clean Button](../../assets/images/projects/fletta/fletta-clean.png "Fletta Clean Button")
 
 **Print:** Users can easily print a document or a webpage. On a printer in the same network, using AirPrint.
-![Fletta Print Window](images/projects/fletta/fletta-print.png "Fletta Print Window")
+![Fletta Print Window](../../assets/images/projects/fletta/fletta-print.png "Fletta Print Window")
 
 **Privacy:** You can let Fletta automatically delete all history, cookies and cache, after a periode of inactivity. This to give your users the privacy the want. By default Fletta will block cookies from third parties.
-![Fletta Privacy Settings](images/projects/fletta/fletta-privacy.png "Fletta Privacy Settings")
+![Fletta Privacy Settings](../../assets/images/projects/fletta/fletta-privacy.png "Fletta Privacy Settings")
 
 **Search:** You can choose a search engine to best serve your users. Option are Google, Yahoo, Bing and DuckDuckGo
-![Fletta Search Engine Settings](images/projects/fletta/fletta-search.png "Fletta Search Engine Settings")
+![Fletta Search Engine Settings](../../assets/images/projects/fletta/fletta-search.png "Fletta Search Engine Settings")
 
 Note: Fletta is since 2018 no longer available.
 

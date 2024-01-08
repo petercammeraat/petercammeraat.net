@@ -24,22 +24,22 @@ Available? is build with SwiftUI, CoreData, CloudKit, TheMovieDB API, and iTunes
 ### Design
 
 iPhone
-![Available iPhone Screenshot](images/projects/available/available-iphone-1.png "Available iPhone Screenshot")
+![Available iPhone Screenshot](../../assets/images/projects/available/available-iphone-1.png "Available iPhone Screenshot")
 
-![Available iPhone Screenshot](images/projects/available/available-iphone-2.png "Available iPhone Screenshot")
+![Available iPhone Screenshot](../../assets/images/projects/available/available-iphone-2.png "Available iPhone Screenshot")
 
-![Available iPhone Screenshot](images/projects/available/available-iphone-3.png "Available iPhone Screenshot")
+![Available iPhone Screenshot](../../assets/images/projects/available/available-iphone-3.png "Available iPhone Screenshot")
 
 iPad
-![Available iPad Screenshot](images/projects/available/available-ipad-1.png "Available iPad Screenshot")
+![Available iPad Screenshot](../../assets/images/projects/available/available-ipad-1.png "Available iPad Screenshot")
 
-![Available iPad Screenshot](images/projects/available/available-ipad-2.png "Available iPad Screenshot")
+![Available iPad Screenshot](../../assets/images/projects/available/available-ipad-2.png "Available iPad Screenshot")
 
-![Available iPad Screenshot](images/projects/available/available-ipad-3.png "Available iPad Screenshot")
+![Available iPad Screenshot](../../assets/images/projects/available/available-ipad-3.png "Available iPad Screenshot")
 
 Mac
-![Available Mac Screenshot](images/projects/available/available-mac-1.png "Available Mac Screenshot")
+![Available Mac Screenshot](../../assets/images/projects/available/available-mac-1.png "Available Mac Screenshot")
 
-![Available Mac Screenshot](images/projects/available/available-mac-2.png "Available Mac Screenshot")
+![Available Mac Screenshot](../../assets/images/projects/available/available-mac-2.png "Available Mac Screenshot")
 
-![Available Mac Screenshot](images/projects/available/available-mac-3.png "Available Mac Screenshot")
+![Available Mac Screenshot](../../assets/images/projects/available/available-mac-3.png "Available Mac Screenshot")

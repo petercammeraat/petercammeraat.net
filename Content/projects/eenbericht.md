@@ -14,12 +14,12 @@ My role in this project was the design and front-end development. HTML, CSS, and
 
 ### Design
 
-![Eenbericht Homepage](images/projects/eenbericht/eenbericht-1.png "Eenbericht Homepage")
+![Eenbericht Homepage](../../assets/images/projects/eenbericht/eenbericht-1.png "Eenbericht Homepage")
 
-![Eenbericht Info](images/projects/eenbericht/eenbericht-2.png "Eenbericht Info")
+![Eenbericht Info](../../assets/images/projects/eenbericht/eenbericht-2.png "Eenbericht Info")
 
-![Eenbericht Buy Code](images/projects/eenbericht/eenbericht-3.png "Eenbericht Buy Code")
+![Eenbericht Buy Code](../../assets/images/projects/eenbericht/eenbericht-3.png "Eenbericht Buy Code")
 
-![Eenbericht Enter Message](images/projects/eenbericht/eenbericht-4.png "Eenbericht Enter Message")
+![Eenbericht Enter Message](../../assets/images/projects/eenbericht/eenbericht-4.png "Eenbericht Enter Message")
 
-![Eenbericht Rules](images/projects/eenbericht/eenbericht-5.png "Eenbericht Rules")
+![Eenbericht Rules](../../assets/images/projects/eenbericht/eenbericht-5.png "Eenbericht Rules")

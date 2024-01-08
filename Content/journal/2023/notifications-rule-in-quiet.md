@@ -10,7 +10,7 @@ tags: projects, quiet
 - Block connections to all servers used to display Notifications popups/banners/alerts and their scripts.
 - Hide Notifications popups/banners/alerts from websites that include them in their webpages.
 
-![Notifications popup example](assets/quiet/help/quiet-rule-notifications.png)
+![Notifications popup example](../../../assets/quiet/help/quiet-rule-notifications.png)
 
 
 ### Why block & hide Notifications popups/banners/alerts?

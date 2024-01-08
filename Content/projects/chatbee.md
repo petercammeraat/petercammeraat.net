@@ -13,8 +13,8 @@ My role in this project was the design and front-end development. HTML, CSS, and
 
 ### Design
 
-![ChatBee screenshot](images/projects/chatbee/chatbee-homepage-1.png "ChatBee screenshot")
+![ChatBee screenshot](../../assets/images/projects/chatbee/chatbee-homepage-1.png "ChatBee screenshot")
 
-![ChatBee screenshot](images/projects/chatbee/chatbee-homepage-2.png "ChatBee screenshot")
+![ChatBee screenshot](../../assets/images/projects/chatbee/chatbee-homepage-2.png "ChatBee screenshot")
 
-![ChatBee screenshot](images/projects/chatbee/chatbee-homepage-3.png "ChatBee screenshot")
+![ChatBee screenshot](../../assets/images/projects/chatbee/chatbee-homepage-3.png "ChatBee screenshot")

@@ -40,9 +40,13 @@ My role in this project was the design and front-end development. HTML, CSS, and
 
 Only a video of the design survived through time.
 
-{{< video src="videos/projects/hospbit/hospbit-maintenance-issue-lifecycle.mp4" type="video/mp4" preload="auto" >}}
+<video class="video-shortcode" style="width:100%" preload="auto" controls>
+    <source src="https://petercammeraat.net/assets/videos/hospbit/hospbit-maintenance-issue-lifecycle.mp4" type="video/mp4">
+    There should have been a video here but your browser does not seem
+    to support it.
+</video>
 
 
 Logo:
 
-![Hospbit Logo](images/projects/hospbit/hospbit_logo.png "Hospbit Logo")
+![Hospbit Logo](../../assets/images/projects/hospbit/hospbit_logo.png "Hospbit Logo")
