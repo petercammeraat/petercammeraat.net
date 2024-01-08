@@ -37,6 +37,7 @@ public extension Node where Context == HTML.DocumentContext {
             .element(named: "title", text: title),
             .meta(.name("description"), .content(description)),
             .link(.rel(.canonical), .href(site.url(for: location))),
+            .meta(.name("robots"), .content("index,follow")),
             .stylesheet("/styles.css"),
             .rssFeedLink("https://petercammeraat.net/index.xml", title: "Subscribe to \(site.name)"),
             .link(.rel(.me), .href("https://defcon.social/@petercammeraat")),
