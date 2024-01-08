@@ -70,18 +70,3 @@ public extension Plugin {
         }
     }
 }
-
-
-//    .group(items.prefix(100).map { item in
-//            .item(
-//                .guid(
-//                    .text(item.rssProperties.guid ?? context.site.url(for: item).absoluteString),
-//                    .isPermaLink(item.rssProperties.guid == nil && item.rssProperties.link == nil)
-//                ),
-//                .title(item.title),
-//                .description(item.description),
-//                .link(item.rssProperties.link ?? context.site.url(for: item)),
-//                .pubDate(item.date, timeZone: context.dateFormatter.timeZone),
-//                .content(for: item, site: context.site)
-//            )
-//    })
