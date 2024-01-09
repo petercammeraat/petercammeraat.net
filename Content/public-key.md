@@ -6,6 +6,8 @@ description: Use this Public Key to encrypt your emails to me.
 
 Use this Public Key to encrypt your emails to me.
 
+Address: [sayhello@petercammeraat.net](mailto:sayhello@petercammeraat.net)
+
 Fingerprint: `5360 322B 99A7 47AE 4562  E5B8 1DEC E772 5764 22F5`
 
 ```

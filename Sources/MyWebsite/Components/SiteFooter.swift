@@ -12,10 +12,10 @@ struct SiteFooter: Component {
         Footer {
             HtmlSection {
                 Navigation {
-                    Link("Terms", url: "/terms/")
-                    Link("Privacy", url: "/privacy/")
-                    Link("Feeds", url: "/feeds/")
-                    Link("Tags", url: "/tags/")
+                    Link("Terms", url: "/terms")
+                    Link("Privacy", url: "/privacy")
+                    Link("Feeds", url: "/feeds")
+                    Link("Tags", url: "/tags")
                 }
                 .class("footer-links")
             }

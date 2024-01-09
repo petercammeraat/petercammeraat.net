@@ -16,7 +16,7 @@ struct SiteNavigation<Site: Website>: Component {
         Navigation {
             Div {
                 Div {
-                    Link(context.site.name, url: "/")
+                    Link(context.site.name, url: "https://petercammeraat.net")
                         .class("brand")
 
                     if Site.SectionID.allCases.count > 1 {

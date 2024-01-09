@@ -42,16 +42,16 @@
       "location" : "https://github.com/petercammeraat/Plot",
       "state" : {
         "branch" : "master",
-        "revision" : "6144e0acfe99d74533dc12019a0905d43c1417fb"
+        "revision" : "ae54de7e5c83a6193d6e4183f9d9d0532144eccd"
       }
     },
     {
       "identity" : "publish",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/johnsundell/publish.git",
+      "location" : "https://github.com/petercammeraat/Publish",
       "state" : {
-        "revision" : "1c8ad00d39c985cb5d497153241a2f1b654e0d40",
-        "version" : "0.9.0"
+        "branch" : "master",
+        "revision" : "366666a9e867c8b5e70001fe710b57b0b80ffc3f"
       }
     },
     {

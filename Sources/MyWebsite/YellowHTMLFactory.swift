@@ -27,7 +27,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
 
                         SiteSection {
                             Div {
-                                Link(url: "/projects/quiet/", label: {
+                                Link(url: "/projects/quiet", label: {
                                     Div {
                                         Div {
                                             Image(url: "/assets/quiet/quiet256.png", description: "Quiet app icon")
