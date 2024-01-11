@@ -11,14 +11,17 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/petercammeraat/Publish", branch: "master"),
-        .package(url: "https://github.com/petercammeraat/Plot", branch: "master")
+        .package(url: "https://github.com/petercammeraat/Plot", branch: "master"),
+        .package(url: "https://github.com/johnsundell/splashpublishplugin", from: "0.1.0")
+
     ],
     targets: [
         .executableTarget(
             name: "MyWebsite",
             dependencies: [
                 .product(name: "Publish", package: "publish"),
-                .product(name: "Plot", package: "plot")
+                .product(name: "Plot", package: "plot"),
+                .product(name: "SplashPublishPlugin", package: "splashpublishplugin")
             ]
         )
     ]

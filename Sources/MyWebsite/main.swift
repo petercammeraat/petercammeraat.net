@@ -8,6 +8,7 @@
 import Foundation
 import Publish
 import Plot
+import SplashPublishPlugin
 
 // This type acts as the configuration for your website.
 struct MyWebsite: Website {
@@ -31,10 +32,12 @@ struct MyWebsite: Website {
 }
 
 try MyWebsite().publish(using: [
+    .installPlugin(.splash(withClassPrefix: "splash-")),
     .copyResources(),
     .addMarkdownFiles(),
     .sortItems(by: \.date, order: .descending),
     .generateHTML(withTheme: .yellow),
+    .installPlugin(.minifyCSS()),
     .generateRSSFeed(including: [.journal], config: RSSFeedConfiguration(targetPath: "index.xml")),
     .installPlugin(.generateRSSFeedsForTags()),
     .generateSiteMap()

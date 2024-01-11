@@ -12,7 +12,7 @@ public extension Theme {
     static var yellow: Self {
         Theme(
             htmlFactory: YellowHTMLFactory(),
-            resourcePaths: ["Resources/theme/styles.css"]
+            resourcePaths: []
         )
     }
 }

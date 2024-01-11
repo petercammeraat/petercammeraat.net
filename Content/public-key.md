@@ -10,7 +10,7 @@ Address: [sayhello@petercammeraat.net](mailto:sayhello@petercammeraat.net)
 
 Fingerprint: `5360 322B 99A7 47AE 4562  E5B8 1DEC E772 5764 22F5`
 
-```
+```no-highlight
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGVEgt8BEAC9vl9cBJmF2baC4VkQvpMS3fErgl9ksrYPPVqpYDl9Rk75lpet
