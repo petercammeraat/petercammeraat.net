@@ -25,4 +25,4 @@ As an additional challenge I'm taking on: the [100 Days to Offload challenge](ht
 
 This challenge is a personal commitment to consistent learning, sharing, and contributing to the vibrant community of knowledge-seekers. Over the course of the next 365 days, I'll be penning down thoughts, insights, and discoveries related to Swift, open-source projects, and the ever-evolving landscape of software.
 
-<small><small>#100DaysToOffload 1/100)</small></small>
+<small><small>#100DaysToOffload 1/100</small></small>

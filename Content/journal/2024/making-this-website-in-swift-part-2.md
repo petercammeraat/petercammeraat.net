@@ -75,4 +75,4 @@ struct Suggested<Site: Website>: Component {
 I want to revamp the projects page and the style of the project pages. After that I will do some research in making my own static site generator and if there already is a DSL good enough to write web markup languages in Swift.
 
 
-<small><small>#100DaysToOffload 4/100)</small></small>
+<small><small>#100DaysToOffload 4/100</small></small>

@@ -19,4 +19,4 @@ You don't have to be a coding expert by fixing bugs, addressing localisation iss
 The aim is to complete the transition to an open-source model by the second quarter of the year. Once this happens, everyone can access, review, and enhance the code. 
 I'm inviting everyone to join this journey toward a more streamlined internet, free from unnecessary distractions.
 
-<small><small>#100DaysToOffload 2/100)</small></small>
+<small><small>#100DaysToOffload 2/100</small></small>

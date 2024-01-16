@@ -174,4 +174,4 @@ Grid(ratio: .custom("masonary")) {
 I believe HTMLKit is a great option when you're considering creating your website or web application using Swift. It provides a straightforward and user-friendly approach with components reminiscent of SwiftUI, making it easier to write correct HTML. Choosing HTMLKit can simplify the process of building and structuring your web content, especially if you're already familiar with Swift.
 
 
-<small><small>#100DaysToOffload 5/100)</small></small>
+<small><small>#100DaysToOffload 5/100</small></small>
