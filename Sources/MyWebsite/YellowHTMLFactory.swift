@@ -30,7 +30,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
                                 Link(url: "/projects/quiet", label: {
                                     Div {
                                         Div {
-                                            Image(url: "/assets/quiet/quiet256.png", description: "Quiet app icon")
+                                            Image(url: "/assets/quiet/quiet.png", description: "Quiet app icon")
                                         }
                                         .class("icon")
 
