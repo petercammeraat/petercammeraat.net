@@ -36,7 +36,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
 
                                         Div {
                                             H3("Quiet")
-                                            Paragraph("Quiet is a content blocker for Safari on iPhone, iPad, and Mac. It's time to reclaim your Safari browsing experience. It's time the internet was just a little more Quiet.")
+                                            Paragraph("Quiet is a content blocker for Safari on iPhone, iPad, Mac, and Vision Pro that lets you block out all of the unwanted distractions and focus.")
                                                 .class("description")
                                         }
                                     }
@@ -100,16 +100,20 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
                             Header {
                                 H1(item.title)
 
-                                Div {
-                                    EntryDate(item: item, site: context.site)
-                                    EntryTags(item: item, site: context.site)
+                                if item.sectionID.rawValue == "journal" {
+                                    Div {
+                                        EntryDate(item: item, site: context.site)
+                                        EntryTags(item: item, site: context.site)
+                                    }
+                                    .class("post-meta")
                                 }
-                                .class("post-meta")
                             }
                             
                             Div(item.content.body).class("article-post")
 
-                            Suggested(context: context, item: item)
+                            if item.sectionID.rawValue == "journal" {
+                                Suggested(context: context, item: item)
+                            }
                         }
                     }
                 }

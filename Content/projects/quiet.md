@@ -6,7 +6,7 @@ description: Quiet doesn't just block websites you don't want to visit, though. 
 
 ![Quiet app icon](/assets/quiet/quiet.png "Quiet app icon")
 
-Quiet is a content blocker for Safari on iPhone, iPad, Mac, and Vision Pro that will not only give you peace of mind when you and your family are browsing the internet, but also block out all of the unwanted distractions when you need it most.
+Quiet is a content blocker for Safari on iPhone, iPad, Mac, and Vision Pro that lets you block out all of the unwanted distractions and focus.
 
 [![Download Quiet on the App Store](/assets/buttons/download-app-store-black.svg)](https://apps.apple.com/app/apple-store/id1441525727?pt=119418684&ct=ProductPage&mt=8)
 
