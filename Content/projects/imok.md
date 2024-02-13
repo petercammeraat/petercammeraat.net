@@ -2,6 +2,7 @@
 title: iMok
 date: 2010-01-23 05:00
 description: iMok is intended as a kind of notepad to record what your colleagues or friends drink: coffee with milk, two lumps of sugar or maybe just black.
+projectType: archived
 ---
 
 iMok is intended as a kind of notepad to record what your colleagues or friends drink: coffee with milk, two lumps of sugar or maybe just black. 

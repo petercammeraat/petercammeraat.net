@@ -2,6 +2,7 @@
 title: Hospbit
 date: 2012-11-20 05:00
 description: Hospbit was a web application for companies and delivers support for building maintenance. Your maintenance staff can use our service for detailed reports and analyses.
+projectType: archived
 ---
 
 Hospbit was a web application for companies and delivers support for building maintenance. Your maintenance staff can use our service for detailed reports and analyses.

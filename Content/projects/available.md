@@ -2,6 +2,7 @@
 title: Available?
 date: 2020-11-01 05:00
 description: Available? - Tired of checking everyday if a movie is available for purchase? No more...
+projectType: archived
 ---
 
 Tired of checking everyday if a movie is available for purchase?

@@ -8,9 +8,9 @@
 import Publish
 import Plot
 
-struct SiteNavigation<Site: Website>: Component {
-    var context: PublishingContext<Site>
-    var selectedSelectionID: Site.SectionID?
+struct SiteNavigation<MyWebsite: Website>: Component {
+    var context: PublishingContext<MyWebsite>
+    var selectedSelectionID: MyWebsite.SectionID?
 
     var body: Component {
         Navigation {
@@ -19,7 +19,7 @@ struct SiteNavigation<Site: Website>: Component {
                     Link(context.site.name, url: "https://petercammeraat.net")
                         .class("brand")
 
-                    if Site.SectionID.allCases.count > 1 {
+                    if MyWebsite.SectionID.allCases.count > 1 {
                         navigation
                     }
                 }
@@ -33,7 +33,7 @@ struct SiteNavigation<Site: Website>: Component {
     private var navigation: Component {
         Div {
 
-            for sectionID in Site.SectionID.allCases {
+            for sectionID in MyWebsite.SectionID.allCases {
                 let section = context.sections[sectionID]
                 Link(section.title, url: section.path.absoluteString)
                     .class(sectionID == selectedSelectionID ? "selected" : "")

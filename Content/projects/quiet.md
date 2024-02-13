@@ -2,6 +2,7 @@
 title: Quiet
 date: 2016-05-20 05:00
 description: Quiet doesn't just block websites you don't want to visit, though. It can block some of the most irritating parts of the websites you need to visit as well.
+projectType: app
 ---
 
 ![Quiet app icon](/assets/quiet/quiet.png "Quiet app icon")

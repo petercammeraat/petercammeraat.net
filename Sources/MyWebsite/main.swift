@@ -19,8 +19,14 @@ struct MyWebsite: Website {
         case contact
     }
 
+    enum ProjectType: String, Codable {
+        case app
+        case package
+        case archived
+    }
+
     struct ItemMetadata: WebsiteItemMetadata {
-        // Add any site-specific metadata that you want to use here.
+        let projectType: ProjectType?
     }
 
     // Update these properties to configure your website:

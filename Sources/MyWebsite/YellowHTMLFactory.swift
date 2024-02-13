@@ -9,8 +9,8 @@ import Foundation
 import Plot
 import Publish
 
-struct YellowHTMLFactory<Site: Website>: HTMLFactory {
-    func makeIndexHTML(for index: Index, context: PublishingContext<Site>) throws -> HTML {
+struct YellowHTMLFactory<MyWebsite: Website>: HTMLFactory {
+    func makeIndexHTML(for index: Index, context: PublishingContext<MyWebsite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
             .customHead(for: index, on: context.site),
@@ -40,10 +40,9 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
                                                 .class("description")
                                         }
                                     }
-                                    .class("project")
+                                    .class("quiet")
                                 })
                             }
-                            .class("projects")
                         }
                     }
 
@@ -66,7 +65,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
         )
     }
 
-    func makeSectionHTML(for section: Section<Site>, context: PublishingContext<Site>) throws -> HTML {
+    func makeSectionHTML(for section: Section<MyWebsite>, context: PublishingContext<MyWebsite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
             .customHead(for: section, on: context.site),
@@ -78,7 +77,9 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
 
                         if section.id.rawValue == "journal" {
                             ItemList(items: section.items, site: context.site, sectionID: section.id, separateInYears: true)
-                        } else  {
+//                        } else if section.id.rawValue == "projects" {
+//                           ProjectList(items: section.items)
+                        } else {
                             ItemList(items: section.items, site: context.site, sectionID: section.id)
                         }
                     }
@@ -88,7 +89,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
         )
     }
 
-    func makeItemHTML(for item: Item<Site>, context: PublishingContext<Site>) throws -> HTML {
+    func makeItemHTML(for item: Item<MyWebsite>, context: PublishingContext<MyWebsite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
             .customHead(for: item, on: context.site),
@@ -122,7 +123,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
         )
     }
 
-    func makePageHTML(for page: Page, context: PublishingContext<Site>) throws -> HTML {
+    func makePageHTML(for page: Page, context: PublishingContext<MyWebsite>) throws -> HTML {
         HTML(
             .lang(context.site.language),
             .customHead(for: page, on: context.site),
@@ -144,7 +145,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
         )
     }
 
-    func makeTagListHTML(for page: TagListPage, context: PublishingContext<Site>) throws -> HTML? {
+    func makeTagListHTML(for page: TagListPage, context: PublishingContext<MyWebsite>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
             .customHead(for: page, on: context.site),
@@ -171,7 +172,7 @@ struct YellowHTMLFactory<Site: Website>: HTMLFactory {
         )
     }
 
-    func makeTagDetailsHTML(for page: TagDetailsPage, context: PublishingContext<Site>) throws -> HTML? {
+    func makeTagDetailsHTML(for page: TagDetailsPage, context: PublishingContext<MyWebsite>) throws -> HTML? {
         HTML(
             .lang(context.site.language),
             .customHead(for: page, on: context.site),
