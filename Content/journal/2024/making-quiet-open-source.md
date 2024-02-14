@@ -5,7 +5,13 @@ description: Making Quiet open source
 tags: projects, quiet
 ---
 
-Big news! I am in the process of making Quiet open source. 
+Update:
+
+I will [no longer](/journal/2024/no-longer-making-quiet-open-source/) make Quiet open source.
+
+-- 
+
+~~Big news! I am in the process of making Quiet open source. ~~
 
 This involves dividing the project into three distinct parts:
 
